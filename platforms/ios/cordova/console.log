@@ -1,0 +1,814 @@
+2015-04-24 18:55:40.668 chimein_beta[20520:978189] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Data/Application/1273FBDB-4BC4-4EF1-B960-082AB3773DAD/Library/Cookies/Cookies.binarycookies
+2015-04-24 18:55:41.024 chimein_beta[20520:978189] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 18:55:41.025 chimein_beta[20520:978189] Multi-tasking -> Device: YES, App: YES
+2015-04-24 18:55:41.037 chimein_beta[20520:978189] Unlimited access to network resources
+2015-04-24 18:55:41.047 chimein_beta[20520:978189] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 18:55:41.828 chimein_beta[20520:978189] Resetting plugins due to page load.
+2015-04-24 18:55:42.722 chimein_beta[20520:978189] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/97AC2B5F-CA09-44DB-A358-DC38EEF065D7/chimein_beta.app/www/index.html
+2015-04-24 18:59:08.433 chimein_beta[20687:981033] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 18:59:08.435 chimein_beta[20687:981033] Multi-tasking -> Device: YES, App: YES
+2015-04-24 18:59:08.439 chimein_beta[20687:981033] Unlimited access to network resources
+2015-04-24 18:59:08.451 chimein_beta[20687:981033] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 18:59:08.997 chimein_beta[20687:981033] Resetting plugins due to page load.
+2015-04-24 18:59:09.688 chimein_beta[20687:981033] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/BD0B3AD8-AD03-4813-BD6D-338D9F149348/chimein_beta.app/www/index.html
+2015-04-24 19:02:39.533 chimein_beta[20842:983874] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 19:02:39.534 chimein_beta[20842:983874] Multi-tasking -> Device: YES, App: YES
+2015-04-24 19:02:39.537 chimein_beta[20842:983874] Unlimited access to network resources
+2015-04-24 19:02:39.540 chimein_beta[20842:983874] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 19:02:39.737 chimein_beta[20842:983874] Resetting plugins due to page load.
+2015-04-24 19:02:40.196 chimein_beta[20842:983874] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/59938731-DAE7-4C6B-96FF-B9CA655AB096/chimein_beta.app/www/index.html
+2015-04-24 19:04:17.454 chimein_beta[20944:985066] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 19:04:17.455 chimein_beta[20944:985066] Multi-tasking -> Device: YES, App: YES
+2015-04-24 19:04:17.457 chimein_beta[20944:985066] Unlimited access to network resources
+2015-04-24 19:04:17.460 chimein_beta[20944:985066] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 19:04:17.631 chimein_beta[20944:985066] Resetting plugins due to page load.
+2015-04-24 19:04:18.076 chimein_beta[20944:985066] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/61598243-BD7F-4DA9-BB58-2DD083D5A15C/chimein_beta.app/www/index.html
+2015-04-24 19:05:11.055 chimein_beta[21038:985891] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 19:05:11.056 chimein_beta[21038:985891] Multi-tasking -> Device: YES, App: YES
+2015-04-24 19:05:11.059 chimein_beta[21038:985891] Unlimited access to network resources
+2015-04-24 19:05:11.062 chimein_beta[21038:985891] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 19:05:11.211 chimein_beta[21038:985891] Resetting plugins due to page load.
+2015-04-24 19:05:11.610 chimein_beta[21038:985891] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/67549B3E-0663-4680-AD87-F14D2882DD5F/chimein_beta.app/www/index.html
+2015-04-24 19:06:18.302 chimein_beta[21134:986794] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 19:06:18.303 chimein_beta[21134:986794] Multi-tasking -> Device: YES, App: YES
+2015-04-24 19:06:18.306 chimein_beta[21134:986794] Unlimited access to network resources
+2015-04-24 19:06:18.308 chimein_beta[21134:986794] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 19:06:18.449 chimein_beta[21134:986794] Resetting plugins due to page load.
+2015-04-24 19:06:18.856 chimein_beta[21134:986794] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/B2C924B0-D22D-4E8C-9E2A-4D2C07A8E768/chimein_beta.app/www/index.html
+2015-04-24 19:06:49.932 chimein_beta[21227:987397] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 19:06:49.934 chimein_beta[21227:987397] Multi-tasking -> Device: YES, App: YES
+2015-04-24 19:06:49.936 chimein_beta[21227:987397] Unlimited access to network resources
+2015-04-24 19:06:49.940 chimein_beta[21227:987397] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 19:06:50.109 chimein_beta[21227:987397] Resetting plugins due to page load.
+2015-04-24 19:06:50.512 chimein_beta[21227:987397] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/DBD2E0F1-EDE7-479E-A811-D3C979F61FA1/chimein_beta.app/www/index.html
+2015-04-24 19:08:39.143 chimein_beta[21333:989168] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 19:08:39.144 chimein_beta[21333:989168] Multi-tasking -> Device: YES, App: YES
+2015-04-24 19:08:39.146 chimein_beta[21333:989168] Unlimited access to network resources
+2015-04-24 19:08:39.149 chimein_beta[21333:989168] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 19:08:39.310 chimein_beta[21333:989168] Resetting plugins due to page load.
+2015-04-24 19:08:39.796 chimein_beta[21333:989168] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/102D1CE1-2EBD-4A48-A01E-79781041B62B/chimein_beta.app/www/index.html
+2015-04-24 19:13:22.513 chimein_beta[21455:992266] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 19:13:22.515 chimein_beta[21455:992266] Multi-tasking -> Device: YES, App: YES
+2015-04-24 19:13:22.517 chimein_beta[21455:992266] Unlimited access to network resources
+2015-04-24 19:13:22.521 chimein_beta[21455:992266] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 19:13:22.679 chimein_beta[21455:992266] Resetting plugins due to page load.
+2015-04-24 19:13:23.076 chimein_beta[21455:992266] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/BC8B4590-0DFD-4750-ADA0-88A88EE37560/chimein_beta.app/www/index.html
+2015-04-24 19:16:27.829 chimein_beta[21620:995803] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 19:16:27.830 chimein_beta[21620:995803] Multi-tasking -> Device: YES, App: YES
+2015-04-24 19:16:27.832 chimein_beta[21620:995803] Unlimited access to network resources
+2015-04-24 19:16:27.835 chimein_beta[21620:995803] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 19:16:27.989 chimein_beta[21620:995803] Resetting plugins due to page load.
+2015-04-24 19:16:28.480 chimein_beta[21620:995803] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/91607906-A9D9-4195-9FD0-DD825CEC88FA/chimein_beta.app/www/index.html
+2015-04-24 19:18:55.759 chimein_beta[21727:997674] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 19:18:55.760 chimein_beta[21727:997674] Multi-tasking -> Device: YES, App: YES
+2015-04-24 19:18:55.763 chimein_beta[21727:997674] Unlimited access to network resources
+2015-04-24 19:18:55.766 chimein_beta[21727:997674] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 19:18:55.915 chimein_beta[21727:997674] Resetting plugins due to page load.
+2015-04-24 19:18:56.323 chimein_beta[21727:997674] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/019813C8-3EE6-401A-93AC-574602D4EB01/chimein_beta.app/www/index.html
+2015-04-24 19:20:21.826 chimein_beta[21824:998728] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-24 19:20:21.827 chimein_beta[21824:998728] Multi-tasking -> Device: YES, App: YES
+2015-04-24 19:20:21.829 chimein_beta[21824:998728] Unlimited access to network resources
+2015-04-24 19:20:21.833 chimein_beta[21824:998728] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-24 19:20:21.982 chimein_beta[21824:998728] Resetting plugins due to page load.
+2015-04-24 19:20:22.364 chimein_beta[21824:998728] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/22EE892A-3279-4FCE-B209-0EB94D3828F1/chimein_beta.app/www/index.html
+2015-04-25 11:31:48.179 chimein_beta[819:17105] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 11:31:48.182 chimein_beta[819:17105] Multi-tasking -> Device: YES, App: YES
+2015-04-25 11:31:48.195 chimein_beta[819:17105] Unlimited access to network resources
+2015-04-25 11:31:48.206 chimein_beta[819:17105] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 11:31:48.800 chimein_beta[819:17105] Resetting plugins due to page load.
+2015-04-25 11:31:49.348 chimein_beta[819:17105] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/5B1E560B-69C2-42D7-B5D2-60C03469619D/chimein_beta.app/www/index.html
+2015-04-25 11:32:35.504 chimein_beta[922:17912] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 11:32:35.505 chimein_beta[922:17912] Multi-tasking -> Device: YES, App: YES
+2015-04-25 11:32:35.508 chimein_beta[922:17912] Unlimited access to network resources
+2015-04-25 11:32:35.511 chimein_beta[922:17912] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 11:32:35.674 chimein_beta[922:17912] Resetting plugins due to page load.
+2015-04-25 11:32:36.035 chimein_beta[922:17912] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/6DF1139E-AC63-4BE0-85A2-332D371F003C/chimein_beta.app/www/index.html
+2015-04-25 11:33:10.657 chimein_beta[1020:18578] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 11:33:10.659 chimein_beta[1020:18578] Multi-tasking -> Device: YES, App: YES
+2015-04-25 11:33:10.661 chimein_beta[1020:18578] Unlimited access to network resources
+2015-04-25 11:33:10.664 chimein_beta[1020:18578] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 11:33:10.829 chimein_beta[1020:18578] Resetting plugins due to page load.
+2015-04-25 11:33:11.210 chimein_beta[1020:18578] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/32BD6225-65D9-4ABB-9C5A-72D047F871BF/chimein_beta.app/www/index.html
+2015-04-25 11:33:38.864 chimein_beta[1118:19142] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 11:33:38.866 chimein_beta[1118:19142] Multi-tasking -> Device: YES, App: YES
+2015-04-25 11:33:38.869 chimein_beta[1118:19142] Unlimited access to network resources
+2015-04-25 11:33:38.872 chimein_beta[1118:19142] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 11:33:39.036 chimein_beta[1118:19142] Resetting plugins due to page load.
+2015-04-25 11:33:39.398 chimein_beta[1118:19142] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/9A6F5514-03E9-4C49-ADCC-C0F374021766/chimein_beta.app/www/index.html
+2015-04-25 11:34:18.442 chimein_beta[1213:19823] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 11:34:18.444 chimein_beta[1213:19823] Multi-tasking -> Device: YES, App: YES
+2015-04-25 11:34:18.447 chimein_beta[1213:19823] Unlimited access to network resources
+2015-04-25 11:34:18.451 chimein_beta[1213:19823] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 11:34:18.601 chimein_beta[1213:19823] Resetting plugins due to page load.
+2015-04-25 11:34:18.973 chimein_beta[1213:19823] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/5ABBF884-058C-45CF-A09A-0C31C1148DC5/chimein_beta.app/www/index.html
+2015-04-25 11:35:07.858 chimein_beta[1311:20486] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 11:35:07.859 chimein_beta[1311:20486] Multi-tasking -> Device: YES, App: YES
+2015-04-25 11:35:07.864 chimein_beta[1311:20486] Unlimited access to network resources
+2015-04-25 11:35:07.867 chimein_beta[1311:20486] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 11:35:08.038 chimein_beta[1311:20486] Resetting plugins due to page load.
+2015-04-25 11:35:08.423 chimein_beta[1311:20486] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/D6494357-5C3F-4C9D-B184-9CAC04576155/chimein_beta.app/www/index.html
+2015-04-25 11:36:02.580 chimein_beta[1414:21217] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 11:36:02.581 chimein_beta[1414:21217] Multi-tasking -> Device: YES, App: YES
+2015-04-25 11:36:02.585 chimein_beta[1414:21217] Unlimited access to network resources
+2015-04-25 11:36:02.588 chimein_beta[1414:21217] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 11:36:02.762 chimein_beta[1414:21217] Resetting plugins due to page load.
+2015-04-25 11:36:03.133 chimein_beta[1414:21217] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/8C183B89-3B8E-4108-9926-698FBABFEF89/chimein_beta.app/www/index.html
+2015-04-25 11:39:59.946 chimein_beta[1414:21217] Resetting plugins due to page load.
+2015-04-25 11:40:00.962 chimein_beta[1414:21217] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/8C183B89-3B8E-4108-9926-698FBABFEF89/chimein_beta.app/www/index.html
+2015-04-25 11:43:44.838 chimein_beta[1569:24673] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 11:43:44.840 chimein_beta[1569:24673] Multi-tasking -> Device: YES, App: YES
+2015-04-25 11:43:44.842 chimein_beta[1569:24673] Unlimited access to network resources
+2015-04-25 11:43:44.847 chimein_beta[1569:24673] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 11:43:45.010 chimein_beta[1569:24673] Resetting plugins due to page load.
+2015-04-25 11:43:45.399 chimein_beta[1569:24673] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/34B9E721-A272-4CF1-8741-92605189A401/chimein_beta.app/www/index.html
+2015-04-25 11:44:03.935 chimein_beta[1569:24673] Resetting plugins due to page load.
+2015-04-25 11:44:05.998 chimein_beta[1569:24673] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/34B9E721-A272-4CF1-8741-92605189A401/chimein_beta.app/www/index.html
+2015-04-25 11:46:32.375 chimein_beta[1689:26361] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 11:46:32.377 chimein_beta[1689:26361] Multi-tasking -> Device: YES, App: YES
+2015-04-25 11:46:32.379 chimein_beta[1689:26361] Unlimited access to network resources
+2015-04-25 11:46:32.383 chimein_beta[1689:26361] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 11:46:32.546 chimein_beta[1689:26361] Resetting plugins due to page load.
+2015-04-25 11:46:32.932 chimein_beta[1689:26361] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/A904F139-9EEC-4F3D-9BE4-9ECDFCDD325B/chimein_beta.app/www/index.html
+2015-04-25 11:46:45.978 chimein_beta[1689:26361] Resetting plugins due to page load.
+2015-04-25 11:46:47.269 chimein_beta[1689:26361] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/A904F139-9EEC-4F3D-9BE4-9ECDFCDD325B/chimein_beta.app/www/index.html
+2015-04-25 11:49:13.401 chimein_beta[1803:27830] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 11:49:13.403 chimein_beta[1803:27830] Multi-tasking -> Device: YES, App: YES
+2015-04-25 11:49:13.405 chimein_beta[1803:27830] Unlimited access to network resources
+2015-04-25 11:49:13.408 chimein_beta[1803:27830] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 11:49:13.571 chimein_beta[1803:27830] Resetting plugins due to page load.
+2015-04-25 11:49:13.961 chimein_beta[1803:27830] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/7A9925F9-6A5D-4973-B640-7BEF09C07968/chimein_beta.app/www/index.html
+2015-04-25 11:49:24.594 chimein_beta[1803:27830] Resetting plugins due to page load.
+2015-04-25 11:49:26.473 chimein_beta[1803:27830] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/7A9925F9-6A5D-4973-B640-7BEF09C07968/chimein_beta.app/www/index.html
+2015-04-25 12:01:03.439 chimein_beta[1972:32728] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:01:03.440 chimein_beta[1972:32728] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:01:03.442 chimein_beta[1972:32728] Unlimited access to network resources
+2015-04-25 12:01:03.446 chimein_beta[1972:32728] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:01:03.606 chimein_beta[1972:32728] Resetting plugins due to page load.
+2015-04-25 12:01:04.032 chimein_beta[1972:32728] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/5D99C3A2-DFB5-467B-9A4B-900B12195E07/chimein_beta.app/www/index.html
+2015-04-25 12:01:37.898 chimein_beta[1972:32728] Resetting plugins due to page load.
+2015-04-25 12:01:39.015 chimein_beta[1972:32728] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/5D99C3A2-DFB5-467B-9A4B-900B12195E07/chimein_beta.app/www/index.html
+2015-04-25 12:13:18.623 chimein_beta[2130:37241] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:13:18.625 chimein_beta[2130:37241] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:13:18.627 chimein_beta[2130:37241] Unlimited access to network resources
+2015-04-25 12:13:18.631 chimein_beta[2130:37241] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:13:18.828 chimein_beta[2130:37241] Resetting plugins due to page load.
+2015-04-25 12:13:19.291 chimein_beta[2130:37241] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/E8EFCD0E-45E0-4A94-9B04-A437237DC694/chimein_beta.app/www/index.html
+2015-04-25 12:19:48.876 chimein_beta[2259:39395] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:19:48.877 chimein_beta[2259:39395] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:19:48.880 chimein_beta[2259:39395] Unlimited access to network resources
+2015-04-25 12:19:48.882 chimein_beta[2259:39395] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:19:49.035 chimein_beta[2259:39395] Resetting plugins due to page load.
+2015-04-25 12:19:49.444 chimein_beta[2259:39395] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/3115F5ED-3BBC-42B0-AE16-7EE3B58485FE/chimein_beta.app/www/index.html
+2015-04-25 12:21:36.811 chimein_beta[2368:40456] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:21:36.813 chimein_beta[2368:40456] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:21:36.815 chimein_beta[2368:40456] Unlimited access to network resources
+2015-04-25 12:21:36.818 chimein_beta[2368:40456] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:21:36.990 chimein_beta[2368:40456] Resetting plugins due to page load.
+2015-04-25 12:21:37.427 chimein_beta[2368:40456] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/6BD51B53-CF88-494B-93D4-0FFA9080CD85/chimein_beta.app/www/index.html
+2015-04-25 12:28:19.021 chimein_beta[2553:44441] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:28:19.024 chimein_beta[2553:44441] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:28:19.034 chimein_beta[2553:44441] Unlimited access to network resources
+2015-04-25 12:28:19.042 chimein_beta[2553:44441] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:28:19.492 chimein_beta[2553:44441] Resetting plugins due to page load.
+2015-04-25 12:28:20.105 chimein_beta[2553:44441] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/0C0B295B-A6DC-4FAA-905C-397771927009/chimein_beta.app/www/index.html
+2015-04-25 12:30:19.142 chimein_beta[2694:45690] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:30:19.145 chimein_beta[2694:45690] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:30:19.147 chimein_beta[2694:45690] Unlimited access to network resources
+2015-04-25 12:30:19.150 chimein_beta[2694:45690] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:30:19.319 chimein_beta[2694:45690] Resetting plugins due to page load.
+2015-04-25 12:30:19.746 chimein_beta[2694:45690] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/E8988C0D-884D-4F07-8B42-9A1FE8AA4854/chimein_beta.app/www/index.html
+2015-04-25 12:30:40.008 chimein_beta[2792:46195] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:30:40.009 chimein_beta[2792:46195] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:30:40.012 chimein_beta[2792:46195] Unlimited access to network resources
+2015-04-25 12:30:40.015 chimein_beta[2792:46195] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:30:40.181 chimein_beta[2792:46195] Resetting plugins due to page load.
+2015-04-25 12:30:40.612 chimein_beta[2792:46195] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/D544BEC7-AFBE-419A-A94A-9FEE50E73779/chimein_beta.app/www/index.html
+2015-04-25 12:34:23.845 chimein_beta[3025:49364] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:34:23.846 chimein_beta[3025:49364] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:34:23.849 chimein_beta[3025:49364] Unlimited access to network resources
+2015-04-25 12:34:23.853 chimein_beta[3025:49364] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:34:23.990 chimein_beta[3025:49364] [CDVTimer][splashscreen] 53.417981ms
+2015-04-25 12:34:23.991 chimein_beta[3025:49364] [CDVTimer][TotalPluginStartup] 53.629994ms
+2015-04-25 12:34:24.051 chimein_beta[3025:49364] Resetting plugins due to page load.
+2015-04-25 12:34:24.541 chimein_beta[3025:49364] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/664BCBFE-664D-404A-8435-F8FE1E33D274/chimein_beta.app/www/index.html
+2015-04-25 12:37:28.227 chimein_beta[3223:52053] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:37:28.228 chimein_beta[3223:52053] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:37:28.230 chimein_beta[3223:52053] Unlimited access to network resources
+2015-04-25 12:37:28.234 chimein_beta[3223:52053] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:37:28.373 chimein_beta[3223:52053] [CDVTimer][splashscreen] 42.647004ms
+2015-04-25 12:37:28.374 chimein_beta[3223:52053] [CDVTimer][TotalPluginStartup] 42.832017ms
+2015-04-25 12:37:28.443 chimein_beta[3223:52053] Resetting plugins due to page load.
+2015-04-25 12:37:28.881 chimein_beta[3223:52053] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/2461854E-FA05-4DCB-AA62-0F8F437C33E8/chimein_beta.app/www/index.html
+2015-04-25 12:38:49.113 chimein_beta[3380:53350] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:38:49.115 chimein_beta[3380:53350] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:38:49.117 chimein_beta[3380:53350] Unlimited access to network resources
+2015-04-25 12:38:49.120 chimein_beta[3380:53350] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:38:49.236 chimein_beta[3380:53350] [CDVTimer][splashscreen] 28.111994ms
+2015-04-25 12:38:49.236 chimein_beta[3380:53350] [CDVTimer][TotalPluginStartup] 28.303027ms
+2015-04-25 12:38:49.304 chimein_beta[3380:53350] Resetting plugins due to page load.
+2015-04-25 12:38:49.789 chimein_beta[3380:53350] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/3C7A0904-FCB0-402E-883D-66AAF4C70225/chimein_beta.app/www/index.html
+2015-04-25 12:52:25.159 chimein_beta[5390:64927] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:52:25.160 chimein_beta[5390:64927] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:52:25.164 chimein_beta[5390:64927] Unlimited access to network resources
+2015-04-25 12:52:25.167 chimein_beta[5390:64927] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:52:25.304 chimein_beta[5390:64927] [CDVTimer][splashscreen] 43.357015ms
+2015-04-25 12:52:25.304 chimein_beta[5390:64927] [CDVTimer][TotalPluginStartup] 43.569028ms
+2015-04-25 12:52:25.424 chimein_beta[5390:64927] Resetting plugins due to page load.
+2015-04-25 12:52:26.320 chimein_beta[5390:64927] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/906AA140-70FD-4591-8E7C-7D05B37DB947/chimein_beta.app/www/index.html
+2015-04-25 12:53:22.522 chimein_beta[5512:65748] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:53:22.523 chimein_beta[5512:65748] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:53:22.526 chimein_beta[5512:65748] Unlimited access to network resources
+2015-04-25 12:53:22.529 chimein_beta[5512:65748] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:53:22.642 chimein_beta[5512:65748] [CDVTimer][splashscreen] 28.137028ms
+2015-04-25 12:53:22.642 chimein_beta[5512:65748] [CDVTimer][TotalPluginStartup] 28.328001ms
+2015-04-25 12:53:22.768 chimein_beta[5512:65748] Resetting plugins due to page load.
+2015-04-25 12:53:23.207 chimein_beta[5512:65748] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/80D62120-AB82-44B0-B62F-8C1BA5D7F060/chimein_beta.app/www/index.html
+2015-04-25 12:53:35.307 chimein_beta[5630:66155] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 12:53:35.308 chimein_beta[5630:66155] Multi-tasking -> Device: YES, App: YES
+2015-04-25 12:53:35.311 chimein_beta[5630:66155] Unlimited access to network resources
+2015-04-25 12:53:35.316 chimein_beta[5630:66155] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 12:53:35.432 chimein_beta[5630:66155] [CDVTimer][splashscreen] 28.131008ms
+2015-04-25 12:53:35.432 chimein_beta[5630:66155] [CDVTimer][TotalPluginStartup] 28.324008ms
+2015-04-25 12:53:35.553 chimein_beta[5630:66155] Resetting plugins due to page load.
+2015-04-25 12:53:36.001 chimein_beta[5630:66155] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/ED4E4EC1-C92D-4746-9844-84D5155F4802/chimein_beta.app/www/index.html
+2015-04-25 22:27:13.803 chimein_beta[8933:215152] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 22:27:13.805 chimein_beta[8933:215152] Multi-tasking -> Device: YES, App: YES
+2015-04-25 22:27:13.821 chimein_beta[8933:215152] Unlimited access to network resources
+2015-04-25 22:27:13.834 chimein_beta[8933:215152] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 22:27:14.295 chimein_beta[8933:215152] [CDVTimer][splashscreen] 139.994025ms
+2015-04-25 22:27:14.295 chimein_beta[8933:215152] [CDVTimer][TotalPluginStartup] 140.205979ms
+2015-04-25 22:27:14.539 chimein_beta[8933:215152] Resetting plugins due to page load.
+2015-04-25 22:27:15.658 chimein_beta[8933:215152] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/558A586D-BC22-4F58-A424-01C3E9F586DB/chimein_beta.app/www/index.html
+2015-04-25 22:29:06.868 chimein_beta[9061:216250] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-25 22:29:06.869 chimein_beta[9061:216250] Multi-tasking -> Device: YES, App: YES
+2015-04-25 22:29:06.871 chimein_beta[9061:216250] Unlimited access to network resources
+2015-04-25 22:29:06.875 chimein_beta[9061:216250] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-25 22:29:06.999 chimein_beta[9061:216250] [CDVTimer][splashscreen] 32.983005ms
+2015-04-25 22:29:06.999 chimein_beta[9061:216250] [CDVTimer][TotalPluginStartup] 33.187032ms
+2015-04-25 22:29:07.138 chimein_beta[9061:216250] Resetting plugins due to page load.
+2015-04-25 22:29:07.576 chimein_beta[9061:216250] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/A2D1A87F-92ED-4395-9A87-8D6A5FDBA1A5/chimein_beta.app/www/index.html
+2015-04-26 16:25:58.712 chimein_beta[1382:53724] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 16:25:58.714 chimein_beta[1382:53724] Multi-tasking -> Device: YES, App: YES
+2015-04-26 16:25:58.725 chimein_beta[1382:53724] Unlimited access to network resources
+2015-04-26 16:25:58.732 chimein_beta[1382:53724] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 16:25:59.094 chimein_beta[1382:53724] [CDVTimer][splashscreen] 105.746031ms
+2015-04-26 16:25:59.094 chimein_beta[1382:53724] [CDVTimer][TotalPluginStartup] 105.942965ms
+2015-04-26 16:25:59.254 chimein_beta[1382:53724] Resetting plugins due to page load.
+2015-04-26 16:26:00.303 chimein_beta[1382:53724] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/20F3FE72-2CD8-49CC-830A-6AFA69D38643/chimein_beta.app/www/index.html
+2015-04-26 16:29:36.781 chimein_beta[1555:55821] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 16:29:36.782 chimein_beta[1555:55821] Multi-tasking -> Device: YES, App: YES
+2015-04-26 16:29:36.785 chimein_beta[1555:55821] Unlimited access to network resources
+2015-04-26 16:29:36.788 chimein_beta[1555:55821] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 16:29:36.918 chimein_beta[1555:55821] [CDVTimer][splashscreen] 44.408977ms
+2015-04-26 16:29:36.919 chimein_beta[1555:55821] [CDVTimer][TotalPluginStartup] 44.609964ms
+2015-04-26 16:29:37.043 chimein_beta[1555:55821] Resetting plugins due to page load.
+2015-04-26 16:29:37.605 chimein_beta[1555:55821] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/0CBE028C-A251-4530-96A4-5B70E7A6947D/chimein_beta.app/www/index.html
+2015-04-26 16:30:32.713 chimein_beta[1555:55821] Resetting plugins due to page load.
+2015-04-26 16:30:33.960 chimein_beta[1555:55821] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/0CBE028C-A251-4530-96A4-5B70E7A6947D/chimein_beta.app/www/index.html
+2015-04-26 16:32:17.928 chimein_beta[1693:57765] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 16:32:17.929 chimein_beta[1693:57765] Multi-tasking -> Device: YES, App: YES
+2015-04-26 16:32:17.932 chimein_beta[1693:57765] Unlimited access to network resources
+2015-04-26 16:32:17.935 chimein_beta[1693:57765] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 16:32:18.049 chimein_beta[1693:57765] [CDVTimer][splashscreen] 25.188029ms
+2015-04-26 16:32:18.049 chimein_beta[1693:57765] [CDVTimer][TotalPluginStartup] 25.382996ms
+2015-04-26 16:32:18.167 chimein_beta[1693:57765] Resetting plugins due to page load.
+2015-04-26 16:32:18.611 chimein_beta[1693:57765] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/64EA384E-EBA6-429C-B93B-F4D420A909D7/chimein_beta.app/www/index.html
+2015-04-26 16:33:01.611 chimein_beta[1693:57765] Resetting plugins due to page load.
+2015-04-26 16:33:02.805 chimein_beta[1693:57765] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/64EA384E-EBA6-429C-B93B-F4D420A909D7/chimein_beta.app/www/index.html
+2015-04-26 16:34:49.244 chimein_beta[2038:59956] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 16:34:49.245 chimein_beta[2038:59956] Multi-tasking -> Device: YES, App: YES
+2015-04-26 16:34:49.249 chimein_beta[2038:59956] Unlimited access to network resources
+2015-04-26 16:34:49.252 chimein_beta[2038:59956] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 16:34:49.364 chimein_beta[2038:59956] [CDVTimer][splashscreen] 28.765023ms
+2015-04-26 16:34:49.364 chimein_beta[2038:59956] [CDVTimer][TotalPluginStartup] 28.972983ms
+2015-04-26 16:34:49.498 chimein_beta[2038:59956] Resetting plugins due to page load.
+2015-04-26 16:34:49.930 chimein_beta[2038:59956] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/106E7447-8073-4607-906D-AA4CC460510D/chimein_beta.app/www/index.html
+2015-04-26 16:35:30.401 chimein_beta[2263:60848] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 16:35:30.403 chimein_beta[2263:60848] Multi-tasking -> Device: YES, App: YES
+2015-04-26 16:35:30.406 chimein_beta[2263:60848] Unlimited access to network resources
+2015-04-26 16:35:30.410 chimein_beta[2263:60848] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 16:35:30.531 chimein_beta[2263:60848] [CDVTimer][splashscreen] 21.423995ms
+2015-04-26 16:35:30.531 chimein_beta[2263:60848] [CDVTimer][TotalPluginStartup] 21.617949ms
+2015-04-26 16:35:30.652 chimein_beta[2263:60848] Resetting plugins due to page load.
+2015-04-26 16:35:31.051 chimein_beta[2263:60848] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/6E15E15B-730B-4F21-9F59-AB348656052F/chimein_beta.app/www/index.html
+2015-04-26 16:36:03.721 chimein_beta[2376:61432] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 16:36:03.722 chimein_beta[2376:61432] Multi-tasking -> Device: YES, App: YES
+2015-04-26 16:36:03.725 chimein_beta[2376:61432] Unlimited access to network resources
+2015-04-26 16:36:03.728 chimein_beta[2376:61432] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 16:36:03.878 chimein_beta[2376:61432] [CDVTimer][splashscreen] 20.470023ms
+2015-04-26 16:36:03.878 chimein_beta[2376:61432] [CDVTimer][TotalPluginStartup] 20.753980ms
+2015-04-26 16:36:04.009 chimein_beta[2376:61432] Resetting plugins due to page load.
+2015-04-26 16:36:04.419 chimein_beta[2376:61432] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/89F6745E-AE77-4BC3-8937-8D7DA8C9E4B7/chimein_beta.app/www/index.html
+2015-04-26 16:36:37.626 chimein_beta[2497:62089] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 16:36:37.627 chimein_beta[2497:62089] Multi-tasking -> Device: YES, App: YES
+2015-04-26 16:36:37.629 chimein_beta[2497:62089] Unlimited access to network resources
+2015-04-26 16:36:37.633 chimein_beta[2497:62089] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 16:36:37.750 chimein_beta[2497:62089] [CDVTimer][splashscreen] 20.469964ms
+2015-04-26 16:36:37.750 chimein_beta[2497:62089] [CDVTimer][TotalPluginStartup] 20.673990ms
+2015-04-26 16:36:37.881 chimein_beta[2497:62089] Resetting plugins due to page load.
+2015-04-26 16:36:38.314 chimein_beta[2497:62089] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/3056D19F-EA94-4A4C-A9ED-DBD39060C52F/chimein_beta.app/www/index.html
+2015-04-26 16:53:42.180 chimein_beta[2705:68380] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 16:53:42.182 chimein_beta[2705:68380] Multi-tasking -> Device: YES, App: YES
+2015-04-26 16:53:42.184 chimein_beta[2705:68380] Unlimited access to network resources
+2015-04-26 16:53:42.187 chimein_beta[2705:68380] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 16:53:42.298 chimein_beta[2705:68380] [CDVTimer][splashscreen] 25.343955ms
+2015-04-26 16:53:42.298 chimein_beta[2705:68380] [CDVTimer][TotalPluginStartup] 25.541008ms
+2015-04-26 16:53:42.416 chimein_beta[2705:68380] Resetting plugins due to page load.
+2015-04-26 16:53:42.841 chimein_beta[2705:68380] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/879E1828-F088-4E90-AD55-2E8FDDE4B6E6/chimein_beta.app/www/index.html
+2015-04-26 17:10:07.494 chimein_beta[2890:72678] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 17:10:07.496 chimein_beta[2890:72678] Multi-tasking -> Device: YES, App: YES
+2015-04-26 17:10:07.499 chimein_beta[2890:72678] Unlimited access to network resources
+2015-04-26 17:10:07.502 chimein_beta[2890:72678] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 17:10:07.621 chimein_beta[2890:72678] [CDVTimer][splashscreen] 38.493991ms
+2015-04-26 17:10:07.621 chimein_beta[2890:72678] [CDVTimer][TotalPluginStartup] 38.685977ms
+2015-04-26 17:10:07.737 chimein_beta[2890:72678] Resetting plugins due to page load.
+2015-04-26 17:10:08.214 chimein_beta[2890:72678] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/5CC348E8-477A-4A44-9951-01FDF1799C5D/chimein_beta.app/www/index.html
+2015-04-26 17:19:02.959 chimein_beta[3017:75545] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 17:19:02.960 chimein_beta[3017:75545] Multi-tasking -> Device: YES, App: YES
+2015-04-26 17:19:02.962 chimein_beta[3017:75545] Unlimited access to network resources
+2015-04-26 17:19:02.966 chimein_beta[3017:75545] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 17:19:03.081 chimein_beta[3017:75545] [CDVTimer][splashscreen] 24.985969ms
+2015-04-26 17:19:03.081 chimein_beta[3017:75545] [CDVTimer][TotalPluginStartup] 25.174022ms
+2015-04-26 17:19:03.214 chimein_beta[3017:75545] Resetting plugins due to page load.
+2015-04-26 17:19:03.613 chimein_beta[3017:75545] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/1EF49C03-2337-49D6-911C-43D043B198A9/chimein_beta.app/www/index.html
+2015-04-26 17:27:01.096 chimein_beta[3017:75545] THREAD WARNING: ['Geolocation'] took '12.958008' ms. Plugin should use a background thread.
+2015-04-26 17:44:05.861 chimein_beta[3163:83929] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 17:44:05.862 chimein_beta[3163:83929] Multi-tasking -> Device: YES, App: YES
+2015-04-26 17:44:05.865 chimein_beta[3163:83929] Unlimited access to network resources
+2015-04-26 17:44:05.868 chimein_beta[3163:83929] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 17:44:05.985 chimein_beta[3163:83929] [CDVTimer][splashscreen] 20.163000ms
+2015-04-26 17:44:05.985 chimein_beta[3163:83929] [CDVTimer][TotalPluginStartup] 20.448983ms
+2015-04-26 17:44:06.101 chimein_beta[3163:83929] Resetting plugins due to page load.
+2015-04-26 17:44:06.535 chimein_beta[3163:83929] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/88DE9741-7B69-4925-AD0D-DA8C40D927E9/chimein_beta.app/www/index.html
+2015-04-26 17:44:38.546 chimein_beta[3280:84500] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 17:44:38.547 chimein_beta[3280:84500] Multi-tasking -> Device: YES, App: YES
+2015-04-26 17:44:38.550 chimein_beta[3280:84500] Unlimited access to network resources
+2015-04-26 17:44:38.553 chimein_beta[3280:84500] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 17:44:38.658 chimein_beta[3280:84500] [CDVTimer][splashscreen] 21.737993ms
+2015-04-26 17:44:38.658 chimein_beta[3280:84500] [CDVTimer][TotalPluginStartup] 21.926045ms
+2015-04-26 17:44:38.778 chimein_beta[3280:84500] Resetting plugins due to page load.
+2015-04-26 17:44:39.180 chimein_beta[3280:84500] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/D63D1D47-273B-433D-AB90-59D40A68BC8F/chimein_beta.app/www/index.html
+2015-04-26 17:47:25.650 chimein_beta[3393:85613] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 17:47:25.651 chimein_beta[3393:85613] Multi-tasking -> Device: YES, App: YES
+2015-04-26 17:47:25.653 chimein_beta[3393:85613] Unlimited access to network resources
+2015-04-26 17:47:25.656 chimein_beta[3393:85613] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 17:47:25.764 chimein_beta[3393:85613] [CDVTimer][splashscreen] 21.265984ms
+2015-04-26 17:47:25.764 chimein_beta[3393:85613] [CDVTimer][TotalPluginStartup] 21.512985ms
+2015-04-26 17:47:25.878 chimein_beta[3393:85613] Resetting plugins due to page load.
+2015-04-26 17:47:26.306 chimein_beta[3393:85613] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/00FAE8E9-0FB2-4448-BA48-49CB3EC1E084/chimein_beta.app/www/index.html
+2015-04-26 18:01:17.610 chimein_beta[3516:88837] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 18:01:17.612 chimein_beta[3516:88837] Multi-tasking -> Device: YES, App: YES
+2015-04-26 18:01:17.614 chimein_beta[3516:88837] Unlimited access to network resources
+2015-04-26 18:01:17.651 chimein_beta[3516:88837] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 18:01:17.765 chimein_beta[3516:88837] [CDVTimer][splashscreen] 22.234023ms
+2015-04-26 18:01:17.765 chimein_beta[3516:88837] [CDVTimer][TotalPluginStartup] 22.439957ms
+2015-04-26 18:01:17.881 chimein_beta[3516:88837] Resetting plugins due to page load.
+2015-04-26 18:01:18.319 chimein_beta[3516:88837] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/3EF40846-F18F-4449-AA30-C3FD99C310AE/chimein_beta.app/www/index.html
+2015-04-26 18:07:10.031 chimein_beta[3627:90453] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 18:07:10.033 chimein_beta[3627:90453] Multi-tasking -> Device: YES, App: YES
+2015-04-26 18:07:10.035 chimein_beta[3627:90453] Unlimited access to network resources
+2015-04-26 18:07:10.038 chimein_beta[3627:90453] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 18:07:10.147 chimein_beta[3627:90453] [CDVTimer][splashscreen] 20.666957ms
+2015-04-26 18:07:10.148 chimein_beta[3627:90453] [CDVTimer][TotalPluginStartup] 20.880997ms
+2015-04-26 18:07:10.263 chimein_beta[3627:90453] Resetting plugins due to page load.
+2015-04-26 18:07:10.703 chimein_beta[3627:90453] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/6698299E-EF90-40A0-B3B5-35D2555C7341/chimein_beta.app/www/index.html
+2015-04-26 18:22:19.565 chimein_beta[4241:96300] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 18:22:19.567 chimein_beta[4241:96300] Multi-tasking -> Device: YES, App: YES
+2015-04-26 18:22:19.569 chimein_beta[4241:96300] Unlimited access to network resources
+2015-04-26 18:22:19.572 chimein_beta[4241:96300] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 18:22:19.695 chimein_beta[4241:96300] [CDVTimer][splashscreen] 33.163011ms
+2015-04-26 18:22:19.695 chimein_beta[4241:96300] [CDVTimer][TotalPluginStartup] 33.364952ms
+2015-04-26 18:22:19.860 chimein_beta[4241:96300] Resetting plugins due to page load.
+2015-04-26 18:22:20.393 chimein_beta[4241:96300] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/C8387EF6-1E3B-4CC2-B442-860A6815B129/chimein_beta.app/www/index.html
+2015-04-26 18:37:06.500 chimein_beta[4375:101363] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 18:37:06.501 chimein_beta[4375:101363] Multi-tasking -> Device: YES, App: YES
+2015-04-26 18:37:06.504 chimein_beta[4375:101363] Unlimited access to network resources
+2015-04-26 18:37:06.507 chimein_beta[4375:101363] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 18:37:06.615 chimein_beta[4375:101363] [CDVTimer][splashscreen] 24.635017ms
+2015-04-26 18:37:06.615 chimein_beta[4375:101363] [CDVTimer][TotalPluginStartup] 24.828017ms
+2015-04-26 18:37:06.742 chimein_beta[4375:101363] Resetting plugins due to page load.
+2015-04-26 18:37:07.172 chimein_beta[4375:101363] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/3D62741B-33B6-4320-B6C0-EE189DC81695/chimein_beta.app/www/index.html
+2015-04-26 18:37:27.717 chimein_beta[4492:101917] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 18:37:27.718 chimein_beta[4492:101917] Multi-tasking -> Device: YES, App: YES
+2015-04-26 18:37:27.722 chimein_beta[4492:101917] Unlimited access to network resources
+2015-04-26 18:37:27.727 chimein_beta[4492:101917] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 18:37:27.842 chimein_beta[4492:101917] [CDVTimer][splashscreen] 28.522015ms
+2015-04-26 18:37:27.842 chimein_beta[4492:101917] [CDVTimer][TotalPluginStartup] 28.729975ms
+2015-04-26 18:37:27.958 chimein_beta[4492:101917] Resetting plugins due to page load.
+2015-04-26 18:37:28.377 chimein_beta[4492:101917] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/655AB810-E88E-4472-9D32-FAD3E9A6FDC8/chimein_beta.app/www/index.html
+2015-04-26 19:40:03.635 chimein_beta[6972:118007] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-26 19:40:03.636 chimein_beta[6972:118007] Multi-tasking -> Device: YES, App: YES
+2015-04-26 19:40:03.639 chimein_beta[6972:118007] Unlimited access to network resources
+2015-04-26 19:40:03.642 chimein_beta[6972:118007] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-26 19:40:03.754 chimein_beta[6972:118007] [CDVTimer][splashscreen] 25.644004ms
+2015-04-26 19:40:03.754 chimein_beta[6972:118007] [CDVTimer][TotalPluginStartup] 25.842965ms
+2015-04-26 19:40:03.875 chimein_beta[6972:118007] Resetting plugins due to page load.
+2015-04-26 19:40:04.284 chimein_beta[6972:118007] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/FA2E384B-E26D-4A42-A49A-85749D34D83B/chimein_beta.app/www/index.html
+2015-04-26 23:05:35.435 chimein_beta[6972:136243] Terminating since there is no system app.
+2015-04-27 17:04:16.620 chimein_beta[3316:125551] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 17:04:16.622 chimein_beta[3316:125551] Multi-tasking -> Device: YES, App: YES
+2015-04-27 17:04:16.634 chimein_beta[3316:125551] Unlimited access to network resources
+2015-04-27 17:04:16.642 chimein_beta[3316:125551] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 17:04:17.055 chimein_beta[3316:125551] [CDVTimer][splashscreen] 135.259032ms
+2015-04-27 17:04:17.055 chimein_beta[3316:125551] [CDVTimer][TotalPluginStartup] 135.459006ms
+2015-04-27 17:04:17.241 chimein_beta[3316:125551] Resetting plugins due to page load.
+2015-04-27 17:04:18.747 chimein_beta[3316:125551] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/3F825E83-CF8A-41B7-AFAA-C122A00F58FD/chimein_beta.app/www/index.html
