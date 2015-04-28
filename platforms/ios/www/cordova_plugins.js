@@ -56,6 +56,13 @@ module.exports = [
         "clobbers": [
             "Connection"
         ]
+    },
+    {
+        "file": "plugins/com.phonegap.plugins.facebookconnect/facebookConnectPlugin.js",
+        "id": "com.phonegap.plugins.facebookconnect.FacebookConnectPlugin",
+        "clobbers": [
+            "facebookConnectPlugin"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -64,7 +71,8 @@ module.exports.metadata =
     "org.apache.cordova.splashscreen": "1.0.0",
     "cordova-plugin-geolocation": "1.0.1-dev",
     "cordova-plugin-device": "1.0.1-dev",
-    "cordova-plugin-network-information": "1.0.1-dev"
+    "cordova-plugin-network-information": "1.0.1-dev",
+    "com.phonegap.plugins.facebookconnect": "0.11.0"
 }
 // BOTTOM OF METADATA
 });

@@ -812,3 +812,23 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-04-27 17:04:17.055 chimein_beta[3316:125551] [CDVTimer][TotalPluginStartup] 135.459006ms
 2015-04-27 17:04:17.241 chimein_beta[3316:125551] Resetting plugins due to page load.
 2015-04-27 17:04:18.747 chimein_beta[3316:125551] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/3F825E83-CF8A-41B7-AFAA-C122A00F58FD/chimein_beta.app/www/index.html
+2015-04-27 22:27:50.911 chimein_beta[18883:258701] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-27 22:27:50.914 chimein_beta[18883:258701] Multi-tasking -> Device: YES, App: YES
+2015-04-27 22:27:50.926 chimein_beta[18883:258701] Unlimited access to network resources
+2015-04-27 22:27:50.937 chimein_beta[18883:258701] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-27 22:27:51.292 chimein_beta[18883:258701] [CDVTimer][splashscreen] 117.264032ms
+2015-04-27 22:27:51.292 chimein_beta[18883:258701] Init FacebookConnect Session
+2015-04-27 22:27:51.365 chimein_beta[18883:258701] [CDVTimer][facebookconnectplugin] 72.450042ms
+2015-04-27 22:27:51.365 chimein_beta[18883:258701] [CDVTimer][TotalPluginStartup] 190.204024ms
+2015-04-27 22:27:51.697 chimein_beta[18883:258701] Resetting plugins due to page load.
+2015-04-27 22:27:52.346 chimein_beta[18883:258701] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/B0454C42-AE9A-4012-ACE9-28BA76DE85B8/chimein_beta.app/www/index.html
+2015-04-27 22:59:36.546 chimein_beta[18883:279077] Communications error: <OS_xpc_error: <error: 0x34335f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x343383c> { length = 22, contents = "Connection interrupted" }
+}>

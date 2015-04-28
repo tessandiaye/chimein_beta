@@ -51,14 +51,19 @@
         
         <script type="text/javascript" src="cordova.js"></script>
         
+        <script type="text/javascript" src="js/facebookConnectPlugin.js"></script>
+        
         <script type="text/javascript" src="js/index.js"></script>
         
         <title>Chime.In Beta</title>
     </head>
     <body>
-<!--        <div data-role="page" id="pagezero">-->
-<!--         <a href="http://localhost:5000/auth/facebook"> Login with Facebook </a>-->
-<!--         </div>-->
+        <div data-role="page" id="pagezero">
+        <div class="event listening button" onclick="login();">Login with Facebook</div>
+        <!--         <a href="http://localhost:5000/auth/facebook"> Login with Facebook </a>-->
+        </div>
+        
+        <div id="fb-root"></div>
         
         <div data-role="page" id="pageone">
             <div data-role="main">
