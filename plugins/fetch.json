@@ -32,5 +32,11 @@
             "url": "https://github.com/Wizcorp/phonegap-facebook-plugin.git",
             "subdir": "."
         }
+    },
+    "org.apache.cordova.inappbrowser": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.inappbrowser"
+        }
     }
 }

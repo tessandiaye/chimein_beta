@@ -174,11 +174,11 @@ if (cordova.platformId == "browser") {
         }
     }());
 
-    module.exports = facebookConnectPlugin;
+//    module.exports = facebookConnectPlugin;
 
 } else {
 
-    var exec = require("cordova/exec");
+//    var exec = require("cordova/exec");
 
     var facebookConnectPlugin = {
 
@@ -225,5 +225,5 @@ if (cordova.platformId == "browser") {
         }
     };
 
-    module.exports = facebookConnectPlugin;
+//    module.exports = facebookConnectPlugin;
 }

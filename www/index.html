@@ -27,15 +27,18 @@
         <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
         
-        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <link href="http://fonts.googleapis.com/css?family=Oswald:700" rel='stylesheet' type='text/css'>
         
-        <link href="https://api.tiles.mapbox.com/mapbox.js/v2.1.8/mapbox.css" rel="stylesheet" />
-            
+        <link href="https://api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.css" rel="stylesheet" />
+        
         <link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.5.css" />
         
         <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
         
-        <script src="https://api.tiles.mapbox.com/mapbox.js/v2.1.8/mapbox.js"></script>
+        <link rel='stylesheet' type='text/css' href='css/bootstrap.min.css' />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        
+        <script src="https://api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.js"></script>
 
         <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
         
@@ -57,41 +60,93 @@
         
         <title>Chime.In Beta</title>
     </head>
-    <body>
-<!--        <div data-role="page" id="pagezero">-->
-<!--        <div class="event listening button" onclick="login();">Login with Facebook</div>-->
-<!--        <!--         <a href="http://localhost:5000/auth/facebook"> Login with Facebook </a>-->-->
-<!--        </div>-->
-<!--        -->
-<!--        <div id="fb-root"></div>-->
+    <body onload="onLoad()">
+        
+        <div data-role="page" id="pagezero">
+            <div class="event listening button" onclick="login();">Login with Facebook</div>
+        </div>
 
-        <div data-role="page" id="pageone">
-            <div data-role="main">
+
+         
+         <div data-role="page" id="pageone">
+             <div data-role="main">
                 </div>
-                    <div data-transition="slide" div class='custom-popup' id='map'></div>
-                    <a href='#' id='geolocate' class='ui-button'>Find me</a>
                     <div id = "sliderarea"></div>
+                    <div data-transition="slide" div class='custom-popup' id='map'></div>
+                    <a href='#' id='geolocate' class='ui-button'></a>
                     <div data-transition="slide" div class='custom-popup' id="slider"></div>
+                    <div id="sliderrectangle"></div>
                     <input type="text" data-transition="slide" div class='custom-popup' id="date" readonly></div>
                 </div>
             </div>
-         </div>
-        
+        </div>
+
+
         <div data-role="main" id = "appmenu">
-            <a href="#pageone" data-transition="slide"> <img src = "imgs/mapicon.png" alt ="mapicon" id = "mapicon"width = "32.99" height = "54.268" align = "left"hspace="20" > </a>
-            
-            <a href="#pagetwo" id="pagetwo" data-transition="slide"> <img src = "imgs/radioicon.png" alt ="mapicon" width = "30.99" height = "54.268" align = "left" hspace="20"> </a>
-            
-            <a href="#pagethree" data-transition="slide"> <img src = "imgs/searchicon.png" alt ="searchicon" id = "mapicon" width = "30.99" height = "54.268" align = "left" hspace="15"> </a>
-            
-            <a href="#pagefour" data-transition="slide"> <img src = "imgs/addicon.png" alt ="addicon" id = "mapicon" width = "32.99" height = "54.268" align = "left" hspace="20"> </a>
-            
-            <a href="#pagefive" data-transition="slide"> <img src = "imgs/accounticon.png" alt ="accounticon" id = "mapicon" width = "54.99" height = "55.268" align = "left" hspace="5"> </a>
+            <div class="row">
+                <div  class="col-xs-15"><a href="#pageone" data-transition="slide"> <div id="mapLink1" class="mapicon active"></div> </a></div>
+                <div  class="col-xs-15">
+                    <a href="#pagetwo" data-transition="slide"> <div id="mapLink2" class="mapicon"></div> </a></div>
+                <div  class="col-xs-15">
+                    <a href="#pagethree" data-transition="slide"> <div id="mapLink3" class="mapicon"></div></a></div>
+                <div  class="col-xs-15">
+                    <a href="#pagefour" data-transition="slide"> <div id="mapLink4" class="mapicon"></div> </a></div>
+                <div  class="col-xs-15">
+                    <a href="#pagefive" data-transition="slide"> <div id="mapLink5" class="mapicon"></div></a></div>
+  
+
+                <script>
+                $(document).ready(function(){
+                                  $(".mapicon").click(function(){
+                                                      $('.mapicon').removeClass('active');
+                                                      $(this).addClass('active');
+                                    });
+                                  });
+                </script>
+            </div>
         </div>
         
         
+<!--       ***** PREVIOUS HTML/CSS METHOD  ******    -->
+
+        
+        
+<!--        <div data-role="page" id="pageone">-->
+<!--            <div data-role="main">-->
+<!--                </div>-->
+<!--                    <div id = "sliderarea"></div>-->
+<!--                    <div data-transition="slide" div class='custom-popup' id='map'></div>-->
+<!--                    <a href='#' id='geolocate' class='ui-button'></a>-->
+<!--                    <div data-transition="slide" div class='custom-popup' id="slider"></div>-->
+<!--                    <div id="sliderrectangle"></div>-->
+<!--                    <input type="text" data-transition="slide" div class='custom-popup' id="date" readonly></div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--         </div>-->
+
+
+        
+<!--        <div data-role="main" id = "appmenu">-->
+<!--            <a href="#pageone" data-transition="slide"> <img src = "imgs/mapicon.png" alt ="mapicon" id = "mapicon"width = "32.99" height = "54.268" align = "left"hspace="20" > </a>-->
+<!--            -->
+<!--            <a href="#pagetwo" id="pagetwo" data-transition="slide"> <img src = "imgs/radioicon.png" alt ="mapicon" width = "30.99" height = "54.268" align = "left" hspace="20"> </a>-->
+<!--            -->
+<!--            <a href="#pagethree" data-transition="slide"> <img src = "imgs/searchicon.png" alt ="searchicon" id = "mapicon" width = "30.99" height = "54.268" align = "left" hspace="15"> </a>-->
+<!--            -->
+<!--            <a href="#pagefour" data-transition="slide"> <img src = "imgs/addicon.png" alt ="addicon" id = "mapicon" width = "32.99" height = "54.268" align = "left" hspace="20"> </a>-->
+<!--            -->
+<!--            <a href="#pagefive" data-transition="slide"> <img src = "imgs/accounticon.png" alt ="accounticon" id = "mapicon" width = "54.99" height = "55.268" align = "left" hspace="5"> </a>-->
+<!--        </div>-->
+
+        
         <div data-role="page" id="pagetwo">
-            <iframe width="100%" height="500" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/94072439%3Fsecret_token%3Ds-MCn0z&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+            
+        <iframe width="100%" height="700" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/105352684&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+        
+<!---->
+<!--        <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/105352684&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>-->
+<!--        -->
+
         </div>
         
         <div data-role="page" id="pagethree">
@@ -101,19 +156,110 @@
         </div>
         
         <div data-role="page" id="pagefive">
-            
-            <a id="facebookAuthentification" href="http://localhost:5000/auth/facebook"> Login with Facebook </a>
-            
-            <form action="http://localhost:5000/form" method="post" id="gmailForm">
-                <input type="text" name="email" placeholder="Add your gmail address">
-<!--                    <input type="submit" value="Share">-->
-                    <button type='submit'>Share</button>
-            </form>
-            
+            <div id="result"></div>
         </div>
 
         <script type="text/javascript">
-            app.initialize();
+            
+ /*          app.initialize(); */
+
+
+        function onLoad() {
+        //    document.addEventListener("deviceready", onDeviceReady, false);
+        }
+        
+        // device APIs are available
+        function onDeviceReady() {
+            var userId = window.localStorage.getItem("userId");
+            if(!userId) return;
+            else{
+                $.mobile.changePage('#pageone');
+                setTimeout(function(){
+                           console.log('initializing app');
+                           app.initialize();
+                           }, 200);
+            }
+            
+        }
+        
+
+            var login = function () {
+                if (!window.cordova) {
+                    var appId = prompt("Enter FB Application ID", "");
+                    facebookConnectPlugin.browserInit(appId);
+                }
+                
+
+
+
+                facebookConnectPlugin.login(["email","user_photos"], function(response) {
+ 
+                        var accessToken;
+                        if (response.authResponse) {
+                        accessToken = response.authResponse.accessToken;
+                        facebookConnectPlugin.api('/me', null, function(response) {
+
+                                                  
+                            handleUserLogin(response,accessToken);
+                        });
+                    }
+                });
+               
+            }
+        
+        
+                var getAccessToken = function () {
+                    facebookConnectPlugin.getAccessToken(
+                                                         function (response) { $.mobile.changePage('#pageone'); },
+                                                         function (response) { alert(JSON.stringify(response)) });
+                }
+ 
+ 
+            function handleUserLogin(user,accessToken){
+                // send user details to server
+                
+                console.log('user login > ',user);
+
+                
+                // create data for the server
+                var data = {
+                    facebookId: user.id,
+                    username: user.name,
+                    email: user.email,
+                    accessToken: accessToken,
+                    concerts: user.concerts
+                }
+                
+                $.post('https://chimeinnycapi.herokuapp.com/api/handleUserLogin', data, function(response){
+                       console.log('done handling user login');
+                       window.localStorage.setItem("userId", response._id);
+                       window.localStorage.setItem("username", response.username);
+                       window.localStorage.setItem("email", response.email);
+                      
+                      var userId = window.localStorage.getItem("userId");
+                      var username = window.localStorage.getItem("username");
+                      var email = window.localStorage.getItem("email");
+                      
+                      console.log(userId);
+                      console.log(username);
+                      console.log(email);
+                       
+                      $.mobile.changePage('#pageone');
+                       setTimeout(function(){
+                        console.log('initializing app');
+                        app.initialize();
+                        }, 200);
+                       
+                   }).fail(function(error){
+                       //debugger;
+                       console.log('error posting to handleUserLogin',error);
+                   }).always(function(){
+                             //debugger;
+                             console.log('DONE withajax');
+                   });
+
+            }
+        
         </script>
     </body>
 </html>
