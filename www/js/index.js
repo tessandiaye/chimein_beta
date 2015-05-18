@@ -116,70 +116,76 @@ createMap: function(data){
     
 //  METHOD 1: CSS MARKERS METHOD
     
-    var myIcon = L.divIcon({
-                           className: 'my-div-icon',
-                           iconSize: [10, 10]
-                           });
+//    var myIcon = L.divIcon({
+//                           className: 'my-div-icon',
+//                           iconSize: [10, 10]
+//                           });
     // you can set .my-div-icon styles in CSS
     
-    L.marker([40.717906, -73.94], {icon: myIcon}).addTo(map);
-    L.marker([40.780778, -73.981062], {icon: myIcon}).addTo(map);
-    L.marker([40.733676, -74.002705], {icon: myIcon}).addTo(map);
+//    L.marker([40.717906, -73.94], {icon: myIcon}).addTo(map);
+//    L.marker([40.780778, -73.981062], {icon: myIcon}).addTo(map);
+//    L.marker([40.733676, -74.002705], {icon: myIcon}).addTo(map);
     
     // CSS ICON METHOD
     
     // Define an icon called cssIcon
-    var cssIcon = L.divIcon({
-                            // Specify a class name we can refer to in CSS.
-                            className: 'css-icon',
-                            // Set marker width and height
-                            iconSize: [10, 10]
-                            });
-    
-    
-    myFeaturesLayer = L.mapbox.featureLayer(geoJson,{
-                                            pointToLayer: function(feature,lonlat) {
-                                            return L.marker(lonlat, {icon: cssIcon});
-                                            }
-                                            }).addTo(map);
-    
-    
-    
-    
-    
-    //  METHOD 2: LEAFLET MARKERS METHOD
-    
+//    var cssIcon = L.divIcon({
+//                            // Specify a class name we can refer to in CSS.
+//                            className: 'css-icon',
+//                            // Set marker width and height
+//                            iconSize: [10, 10]
+//                            });
+//    
+//    
 //    myFeaturesLayer = L.mapbox.featureLayer(geoJson,{
-//                                            pointToLayer: function(feature, lonlat) {
-//                                            var color = getColor(feature.properties.title);
-//                                            return L.circleMarker(lonlat, {
-//                                                                  fillColor: color,
-//                                                                  fillOpacity: 1,
-//                                                                  radius: 3,
-//                                                                  stroke: true,
-//                                                                  color: color,
-//                                                                  weight: 6,
-//                                                                  opacity: 0.6
-//                                                                  });
+//                                            pointToLayer: function(feature,lonlat) {
+//                                            return L.marker(lonlat, {icon: cssIcon});
 //                                            }
 //                                            }).addTo(map);
 //    
 //    
-//    function getColor(title){
-//        var yellow = '#f4eb66';
+//    
+    
+    
+    //  METHOD 2: LEAFLET MARKERS METHOD
+    
+    myFeaturesLayer = L.mapbox.featureLayer(geoJson,{
+                                            pointToLayer: function(feature, lonlat) {
+                                            var color = getColor(feature.properties.title);
+                                            return L.circleMarker(lonlat, {
+                                                                  fillColor: color,
+                                                                  fillOpacity: 1,
+                                                                  radius: 3,
+                                                                  stroke: true,
+                                                                  color: color,
+                                                                  weight: 6,
+                                                                  opacity: 0.5
+                                                                  });
+                                            }
+                                            }).addTo(map);
+    
+    
+    function getColor(title){
+        var yellow = '#f9f4ad';
 //        var red = '#f03';
 //        var green = '#70f466';
-//        var turquoise = '#67daf4';
-//        
-//        if(title=="Pokey LaFarge Caroline Rose") return yellow; // DAY 3
-//        if(title=="ZZZs/ Palberta/ Dead Tenants/ Big Neck Police/ bbigpigg") return green; // DAY 1
-//        if(title=="Fred Thomas") return red; // DAY 1
-//        
-//        else return turquoise;
-//        
-//        
-//    }
-//    
+//        var purple = '#8e86ff';
+        var purple = '#a69fff';
+        
+       
+        
+        if(title=="Ski Lodge") return yellow; // DAY 9
+        if(title=="Derangement of the Senses") return yellow; // DAY 1
+        if(title=="Fred Thomas") return yellow; // DAY 1
+        if(title=="SIR JARLSBERG") return yellow; // DAY 8
+        if(title=="The Front Room") return yellow; // DAY
+        if(title=="Geeks Who Drink - Pub Quiz") return yellow; // DAY 10
+      
+        else return purple;
+        
+        
+    }
+    
     
     // >>> GEOLOCATION <<<< // - may have to use window.onload = function(){ };
     

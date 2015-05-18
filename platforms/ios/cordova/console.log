@@ -8848,3 +8848,552 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-05-11 20:44:43.940 chimein_beta[1110:31133] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
 2015-05-11 20:44:44.034 chimein_beta[1110:31133] THREAD WARNING: ['FacebookConnectPlugin'] took '105.821289' ms. Plugin should use a background thread.
 2015-05-11 20:44:56.769 chimein_beta[1110:31133] Graph Path = /me
+2015-05-11 21:47:58.870 chimein_beta[1924:67509] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 21:47:58.873 chimein_beta[1924:67509] Multi-tasking -> Device: YES, App: YES
+2015-05-11 21:47:58.883 chimein_beta[1924:67509] Unlimited access to network resources
+2015-05-11 21:47:58.893 chimein_beta[1924:67509] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 21:47:59.425 chimein_beta[1924:67509] [CDVTimer][splashscreen] 157.392979ms
+2015-05-11 21:47:59.425 chimein_beta[1924:67509] Init FacebookConnect Session
+2015-05-11 21:47:59.499 chimein_beta[1924:67509] [CDVTimer][facebookconnectplugin] 73.091984ms
+2015-05-11 21:47:59.499 chimein_beta[1924:67509] [CDVTimer][TotalPluginStartup] 230.947018ms
+2015-05-11 21:47:59.760 chimein_beta[1924:67509] Resetting plugins due to page load.
+2015-05-11 21:48:00.737 chimein_beta[1924:67509] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/1BE15DD7-0625-4366-B2B1-CAB05EBFE6FF/chimein_beta.app/www/index.html
+2015-05-11 21:50:22.615 chimein_beta[2057:68981] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 21:50:22.617 chimein_beta[2057:68981] Multi-tasking -> Device: YES, App: YES
+2015-05-11 21:50:22.620 chimein_beta[2057:68981] Unlimited access to network resources
+2015-05-11 21:50:22.623 chimein_beta[2057:68981] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 21:50:22.747 chimein_beta[2057:68981] [CDVTimer][splashscreen] 29.790998ms
+2015-05-11 21:50:22.747 chimein_beta[2057:68981] Init FacebookConnect Session
+2015-05-11 21:50:22.753 chimein_beta[2057:68981] [CDVTimer][facebookconnectplugin] 6.222963ms
+2015-05-11 21:50:22.753 chimein_beta[2057:68981] [CDVTimer][TotalPluginStartup] 36.375999ms
+2015-05-11 21:50:22.891 chimein_beta[2057:68981] Resetting plugins due to page load.
+2015-05-11 21:50:23.550 chimein_beta[2057:68981] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/5C173855-D5E9-454E-B9F9-8E4154AFF34B/chimein_beta.app/www/index.html
+2015-05-11 21:50:27.525 chimein_beta[2057:68981] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-11 21:50:27.613 chimein_beta[2057:68981] THREAD WARNING: ['FacebookConnectPlugin'] took '255.692871' ms. Plugin should use a background thread.
+2015-05-11 21:50:38.881 chimein_beta[2057:68981] Graph Path = /me
+2015-05-11 21:55:22.965 chimein_beta[2057:72783] Communications error: <OS_xpc_error: <error: 0x34675f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x346783c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-11 23:20:11.118 chimein_beta[2468:109162] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:20:11.122 chimein_beta[2468:109162] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:20:11.140 chimein_beta[2468:109162] Unlimited access to network resources
+2015-05-11 23:20:11.153 chimein_beta[2468:109162] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:20:11.534 chimein_beta[2468:109162] [CDVTimer][splashscreen] 98.093987ms
+2015-05-11 23:20:11.535 chimein_beta[2468:109162] Init FacebookConnect Session
+2015-05-11 23:20:11.630 chimein_beta[2468:109162] [CDVTimer][facebookconnectplugin] 95.537961ms
+2015-05-11 23:20:11.630 chimein_beta[2468:109162] [CDVTimer][TotalPluginStartup] 194.049001ms
+2015-05-11 23:20:11.870 chimein_beta[2468:109162] Resetting plugins due to page load.
+2015-05-11 23:20:12.706 chimein_beta[2468:109162] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/7A5A1FF4-73CB-4882-BA1D-9341233EF5BA/chimein_beta.app/www/index.html
+2015-05-11 23:22:51.206 chimein_beta[2610:111186] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:22:51.208 chimein_beta[2610:111186] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:22:51.210 chimein_beta[2610:111186] Unlimited access to network resources
+2015-05-11 23:22:51.214 chimein_beta[2610:111186] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:22:51.332 chimein_beta[2610:111186] [CDVTimer][splashscreen] 32.535017ms
+2015-05-11 23:22:51.332 chimein_beta[2610:111186] Init FacebookConnect Session
+2015-05-11 23:22:51.338 chimein_beta[2610:111186] [CDVTimer][facebookconnectplugin] 6.337047ms
+2015-05-11 23:22:51.338 chimein_beta[2610:111186] [CDVTimer][TotalPluginStartup] 39.231002ms
+2015-05-11 23:22:51.512 chimein_beta[2610:111186] Resetting plugins due to page load.
+2015-05-11 23:22:52.106 chimein_beta[2610:111186] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/F5F4EC54-86C0-48CE-A6D9-7D4F7E9764F3/chimein_beta.app/www/index.html
+2015-05-11 23:26:18.031 chimein_beta[2610:113659] Communications error: <OS_xpc_error: <error: 0x34765f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x347683c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-11 23:27:22.295 chimein_beta[2861:115863] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:27:22.296 chimein_beta[2861:115863] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:27:22.300 chimein_beta[2861:115863] Unlimited access to network resources
+2015-05-11 23:27:22.303 chimein_beta[2861:115863] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:27:22.441 chimein_beta[2861:115863] [CDVTimer][splashscreen] 45.431972ms
+2015-05-11 23:27:22.441 chimein_beta[2861:115863] Init FacebookConnect Session
+2015-05-11 23:27:22.502 chimein_beta[2861:115863] [CDVTimer][facebookconnectplugin] 60.833991ms
+2015-05-11 23:27:22.502 chimein_beta[2861:115863] [CDVTimer][TotalPluginStartup] 106.619000ms
+2015-05-11 23:27:22.663 chimein_beta[2861:115863] Resetting plugins due to page load.
+2015-05-11 23:27:23.276 chimein_beta[2861:115863] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/0F4799AF-03FC-43F5-BEAD-B0A34589FE13/chimein_beta.app/www/index.html
+2015-05-11 23:27:38.324 chimein_beta[2861:115903] Terminating since there is no system app.
+2015-05-11 23:28:18.819 chimein_beta[3057:117805] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:28:18.822 chimein_beta[3057:117805] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:28:18.835 chimein_beta[3057:117805] Unlimited access to network resources
+2015-05-11 23:28:18.844 chimein_beta[3057:117805] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:28:19.257 chimein_beta[3057:117805] [CDVTimer][splashscreen] 145.254970ms
+2015-05-11 23:28:19.257 chimein_beta[3057:117805] Init FacebookConnect Session
+2015-05-11 23:28:19.308 chimein_beta[3057:117805] [CDVTimer][facebookconnectplugin] 51.106989ms
+2015-05-11 23:28:19.309 chimein_beta[3057:117805] [CDVTimer][TotalPluginStartup] 196.868956ms
+2015-05-11 23:28:19.647 chimein_beta[3057:117805] Resetting plugins due to page load.
+2015-05-11 23:28:21.493 chimein_beta[3057:117805] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/F752AF97-711F-434C-AD63-0AAF39AD1E4B/chimein_beta.app/www/index.html
+2015-05-11 23:29:37.520 chimein_beta[3253:119590] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:29:37.522 chimein_beta[3253:119590] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:29:37.526 chimein_beta[3253:119590] Unlimited access to network resources
+2015-05-11 23:29:37.534 chimein_beta[3253:119590] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:29:38.183 chimein_beta[3253:119590] [CDVTimer][splashscreen] 189.254999ms
+2015-05-11 23:29:38.183 chimein_beta[3253:119590] Init FacebookConnect Session
+2015-05-11 23:29:38.217 chimein_beta[3253:119590] [CDVTimer][facebookconnectplugin] 33.783019ms
+2015-05-11 23:29:38.217 chimein_beta[3253:119590] [CDVTimer][TotalPluginStartup] 223.471999ms
+2015-05-11 23:29:38.568 chimein_beta[3253:119590] Resetting plugins due to page load.
+2015-05-11 23:29:39.478 chimein_beta[3253:119590] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/1C5DA494-51C1-499F-AF31-5FBE245C712B/chimein_beta.app/www/index.html
+2015-05-11 23:33:04.320 chimein_beta[3413:121963] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Data/Application/AD939D4F-E6C9-4629-AEB0-0148B594057F/Library/Cookies/Cookies.binarycookies
+2015-05-11 23:33:04.438 chimein_beta[3413:121963] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:33:04.439 chimein_beta[3413:121963] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:33:04.442 chimein_beta[3413:121963] Unlimited access to network resources
+2015-05-11 23:33:04.446 chimein_beta[3413:121963] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:33:04.628 chimein_beta[3413:121963] [CDVTimer][splashscreen] 26.992977ms
+2015-05-11 23:33:04.628 chimein_beta[3413:121963] Init FacebookConnect Session
+2015-05-11 23:33:04.638 chimein_beta[3413:121963] [CDVTimer][facebookconnectplugin] 9.917021ms
+2015-05-11 23:33:04.638 chimein_beta[3413:121963] [CDVTimer][TotalPluginStartup] 37.342012ms
+2015-05-11 23:33:05.181 chimein_beta[3413:121963] Resetting plugins due to page load.
+2015-05-11 23:33:06.461 chimein_beta[3413:121963] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/C8E6DAC4-FFA2-4505-999F-4E15C705A569/chimein_beta.app/www/index.html
+2015-05-11 23:38:43.651 chimein_beta[3636:126194] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Data/Application/B24C8D14-1FFB-4987-A45C-F5A608EFB2B4/Library/Cookies/Cookies.binarycookies
+2015-05-11 23:38:43.738 chimein_beta[3636:126194] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:38:43.738 chimein_beta[3636:126194] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:38:43.741 chimein_beta[3636:126194] Unlimited access to network resources
+2015-05-11 23:38:43.745 chimein_beta[3636:126194] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:38:43.861 chimein_beta[3636:126194] [CDVTimer][splashscreen] 26.995003ms
+2015-05-11 23:38:43.862 chimein_beta[3636:126194] Init FacebookConnect Session
+2015-05-11 23:38:43.868 chimein_beta[3636:126194] [CDVTimer][facebookconnectplugin] 6.277978ms
+2015-05-11 23:38:43.868 chimein_beta[3636:126194] [CDVTimer][TotalPluginStartup] 33.627987ms
+2015-05-11 23:38:44.295 chimein_beta[3636:126194] Resetting plugins due to page load.
+2015-05-11 23:38:45.117 chimein_beta[3636:126194] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/7BFC3342-DCAB-485C-904F-BF4D9BBC8D5B/chimein_beta.app/www/index.html
+2015-05-11 23:40:28.676 chimein_beta[3787:127751] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Data/Application/624CE27E-B7A1-4530-90CA-F29323DE3C6B/Library/Cookies/Cookies.binarycookies
+2015-05-11 23:40:28.790 chimein_beta[3787:127751] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:40:28.790 chimein_beta[3787:127751] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:40:28.794 chimein_beta[3787:127751] Unlimited access to network resources
+2015-05-11 23:40:28.798 chimein_beta[3787:127751] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:40:28.953 chimein_beta[3787:127751] [CDVTimer][splashscreen] 43.501973ms
+2015-05-11 23:40:28.953 chimein_beta[3787:127751] Init FacebookConnect Session
+2015-05-11 23:40:28.962 chimein_beta[3787:127751] [CDVTimer][facebookconnectplugin] 8.893967ms
+2015-05-11 23:40:28.963 chimein_beta[3787:127751] [CDVTimer][TotalPluginStartup] 52.758992ms
+2015-05-11 23:40:29.532 chimein_beta[3787:127751] Resetting plugins due to page load.
+2015-05-11 23:40:30.497 chimein_beta[3787:127751] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/94E1109A-93F6-48E8-A468-D432E841E887/chimein_beta.app/www/index.html
+2015-05-11 23:44:06.508 chimein_beta[3941:130033] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Data/Application/0756BEF5-0AFF-4997-856E-DC3A2B7D7C39/Library/Cookies/Cookies.binarycookies
+2015-05-11 23:44:06.591 chimein_beta[3941:130033] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:44:06.591 chimein_beta[3941:130033] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:44:06.595 chimein_beta[3941:130033] Unlimited access to network resources
+2015-05-11 23:44:06.598 chimein_beta[3941:130033] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:44:06.715 chimein_beta[3941:130033] [CDVTimer][splashscreen] 22.321045ms
+2015-05-11 23:44:06.715 chimein_beta[3941:130033] Init FacebookConnect Session
+2015-05-11 23:44:06.722 chimein_beta[3941:130033] [CDVTimer][facebookconnectplugin] 6.810963ms
+2015-05-11 23:44:06.722 chimein_beta[3941:130033] [CDVTimer][TotalPluginStartup] 29.501975ms
+2015-05-11 23:44:07.122 chimein_beta[3941:130033] Resetting plugins due to page load.
+2015-05-11 23:44:07.794 chimein_beta[3941:130033] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/E19C5ADA-6986-47CF-A321-D42EB17C3801/chimein_beta.app/www/index.html
+2015-05-11 23:53:21.655 chimein_beta[20769:152975] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:53:21.657 chimein_beta[20769:152975] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:53:21.660 chimein_beta[20769:152975] Unlimited access to network resources
+2015-05-11 23:53:21.663 chimein_beta[20769:152975] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:53:21.786 chimein_beta[20769:152975] [CDVTimer][splashscreen] 19.401014ms
+2015-05-11 23:53:21.786 chimein_beta[20769:152975] Init FacebookConnect Session
+2015-05-11 23:53:21.791 chimein_beta[20769:152975] [CDVTimer][facebookconnectplugin] 5.297959ms
+2015-05-11 23:53:21.791 chimein_beta[20769:152975] [CDVTimer][TotalPluginStartup] 25.067985ms
+2015-05-11 23:53:21.915 chimein_beta[20769:152975] Resetting plugins due to page load.
+2015-05-11 23:53:22.507 chimein_beta[20769:152975] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/20A3AA1A-8C56-4ECA-8210-4FF0918F0961/chimein_beta.app/www/index.html
+2015-05-11 23:55:29.858 chimein_beta[20917:154672] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 23:55:29.859 chimein_beta[20917:154672] Multi-tasking -> Device: YES, App: YES
+2015-05-11 23:55:29.862 chimein_beta[20917:154672] Unlimited access to network resources
+2015-05-11 23:55:29.865 chimein_beta[20917:154672] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 23:55:29.968 chimein_beta[20917:154672] [CDVTimer][splashscreen] 20.707011ms
+2015-05-11 23:55:29.968 chimein_beta[20917:154672] Init FacebookConnect Session
+2015-05-11 23:55:29.973 chimein_beta[20917:154672] [CDVTimer][facebookconnectplugin] 5.346000ms
+2015-05-11 23:55:29.974 chimein_beta[20917:154672] [CDVTimer][TotalPluginStartup] 26.450992ms
+2015-05-11 23:55:30.082 chimein_beta[20917:154672] Resetting plugins due to page load.
+2015-05-11 23:55:30.637 chimein_beta[20917:154672] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/7F2A8DCE-615F-49D4-B09C-F13746077110/chimein_beta.app/www/index.html
+2015-05-12 00:00:05.905 chimein_beta[21105:158636] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 00:00:05.906 chimein_beta[21105:158636] Multi-tasking -> Device: YES, App: YES
+2015-05-12 00:00:05.909 chimein_beta[21105:158636] Unlimited access to network resources
+2015-05-12 00:00:05.913 chimein_beta[21105:158636] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 00:00:06.025 chimein_beta[21105:158636] [CDVTimer][splashscreen] 28.050005ms
+2015-05-12 00:00:06.025 chimein_beta[21105:158636] Init FacebookConnect Session
+2015-05-12 00:00:06.030 chimein_beta[21105:158636] [CDVTimer][facebookconnectplugin] 4.651010ms
+2015-05-12 00:00:06.030 chimein_beta[21105:158636] [CDVTimer][TotalPluginStartup] 33.060014ms
+2015-05-12 00:00:06.157 chimein_beta[21105:158636] Resetting plugins due to page load.
+2015-05-12 00:00:06.655 chimein_beta[21105:158636] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/DC572AC1-BEC2-4AAC-A13B-C87C1075C936/chimein_beta.app/www/index.html
+2015-05-12 00:07:01.094 chimein_beta[21314:163744] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 00:07:01.095 chimein_beta[21314:163744] Multi-tasking -> Device: YES, App: YES
+2015-05-12 00:07:01.098 chimein_beta[21314:163744] Unlimited access to network resources
+2015-05-12 00:07:01.101 chimein_beta[21314:163744] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 00:07:01.204 chimein_beta[21314:163744] [CDVTimer][splashscreen] 19.702017ms
+2015-05-12 00:07:01.204 chimein_beta[21314:163744] Init FacebookConnect Session
+2015-05-12 00:07:01.209 chimein_beta[21314:163744] [CDVTimer][facebookconnectplugin] 4.967988ms
+2015-05-12 00:07:01.209 chimein_beta[21314:163744] [CDVTimer][TotalPluginStartup] 25.023997ms
+2015-05-12 00:07:01.329 chimein_beta[21314:163744] Resetting plugins due to page load.
+2015-05-12 00:07:01.910 chimein_beta[21314:163744] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/6E44CF85-81C1-4723-8B4F-46A3A0727860/chimein_beta.app/www/index.html
+2015-05-12 00:08:56.905 chimein_beta[21454:165411] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 00:08:56.906 chimein_beta[21454:165411] Multi-tasking -> Device: YES, App: YES
+2015-05-12 00:08:56.908 chimein_beta[21454:165411] Unlimited access to network resources
+2015-05-12 00:08:56.911 chimein_beta[21454:165411] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 00:08:57.015 chimein_beta[21454:165411] [CDVTimer][splashscreen] 17.736971ms
+2015-05-12 00:08:57.016 chimein_beta[21454:165411] Init FacebookConnect Session
+2015-05-12 00:08:57.020 chimein_beta[21454:165411] [CDVTimer][facebookconnectplugin] 4.741013ms
+2015-05-12 00:08:57.020 chimein_beta[21454:165411] [CDVTimer][TotalPluginStartup] 22.826016ms
+2015-05-12 00:08:57.135 chimein_beta[21454:165411] Resetting plugins due to page load.
+2015-05-12 00:08:57.829 chimein_beta[21454:165411] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/B5EDC753-FED8-49B2-9943-71F6174DC887/chimein_beta.app/www/index.html
+2015-05-12 00:15:43.187 chimein_beta[21658:174036] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 00:15:43.189 chimein_beta[21658:174036] Multi-tasking -> Device: YES, App: YES
+2015-05-12 00:15:43.192 chimein_beta[21658:174036] Unlimited access to network resources
+2015-05-12 00:15:43.195 chimein_beta[21658:174036] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 00:15:43.309 chimein_beta[21658:174036] [CDVTimer][splashscreen] 25.628030ms
+2015-05-12 00:15:43.309 chimein_beta[21658:174036] Init FacebookConnect Session
+2015-05-12 00:15:43.314 chimein_beta[21658:174036] [CDVTimer][facebookconnectplugin] 4.733980ms
+2015-05-12 00:15:43.314 chimein_beta[21658:174036] [CDVTimer][TotalPluginStartup] 30.708969ms
+2015-05-12 00:15:43.432 chimein_beta[21658:174036] Resetting plugins due to page load.
+2015-05-12 00:15:43.986 chimein_beta[21658:174036] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/A1CFCB59-5585-4B48-9497-E8E823AC14EA/chimein_beta.app/www/index.html
+2015-05-12 00:16:45.254 chimein_beta[21658:174537] Communications error: <OS_xpc_error: <error: 0x33d45f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x33d483c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-12 08:16:34.748 chimein_beta[1033:15204] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:16:34.752 chimein_beta[1033:15204] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:16:34.764 chimein_beta[1033:15204] Unlimited access to network resources
+2015-05-12 08:16:34.775 chimein_beta[1033:15204] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:16:35.204 chimein_beta[1033:15204] [CDVTimer][splashscreen] 141.956031ms
+2015-05-12 08:16:35.205 chimein_beta[1033:15204] Init FacebookConnect Session
+2015-05-12 08:16:35.220 chimein_beta[1033:15204] [CDVTimer][facebookconnectplugin] 15.460014ms
+2015-05-12 08:16:35.220 chimein_beta[1033:15204] [CDVTimer][TotalPluginStartup] 157.871008ms
+2015-05-12 08:16:35.515 chimein_beta[1033:15204] Resetting plugins due to page load.
+2015-05-12 08:16:36.513 chimein_beta[1033:15204] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/590A1934-1940-4A99-ACD9-9A0EB2B09B24/chimein_beta.app/www/index.html
+2015-05-12 08:16:39.811 chimein_beta[1033:15204] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-12 08:16:39.902 chimein_beta[1033:15204] THREAD WARNING: ['FacebookConnectPlugin'] took '110.275879' ms. Plugin should use a background thread.
+2015-05-12 08:16:54.384 chimein_beta[1033:15204] Graph Path = /me
+2015-05-12 08:22:06.493 chimein_beta[1203:18344] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:22:06.494 chimein_beta[1203:18344] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:22:06.497 chimein_beta[1203:18344] Unlimited access to network resources
+2015-05-12 08:22:06.500 chimein_beta[1203:18344] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:22:06.611 chimein_beta[1203:18344] [CDVTimer][splashscreen] 25.436997ms
+2015-05-12 08:22:06.611 chimein_beta[1203:18344] Init FacebookConnect Session
+2015-05-12 08:22:06.617 chimein_beta[1203:18344] [CDVTimer][facebookconnectplugin] 5.628943ms
+2015-05-12 08:22:06.617 chimein_beta[1203:18344] [CDVTimer][TotalPluginStartup] 31.443954ms
+2015-05-12 08:22:06.750 chimein_beta[1203:18344] Resetting plugins due to page load.
+2015-05-12 08:22:07.226 chimein_beta[1203:18344] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/554FB8BC-2C54-4983-8483-A921068BBCD0/chimein_beta.app/www/index.html
+2015-05-12 08:22:11.787 chimein_beta[1203:18344] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-12 08:22:11.850 chimein_beta[1203:18344] THREAD WARNING: ['FacebookConnectPlugin'] took '72.773926' ms. Plugin should use a background thread.
+2015-05-12 08:22:23.400 chimein_beta[1203:18344] Graph Path = /me
+2015-05-12 08:24:18.442 chimein_beta[1338:19594] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:24:18.443 chimein_beta[1338:19594] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:24:18.446 chimein_beta[1338:19594] Unlimited access to network resources
+2015-05-12 08:24:18.449 chimein_beta[1338:19594] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:24:18.567 chimein_beta[1338:19594] [CDVTimer][splashscreen] 24.698019ms
+2015-05-12 08:24:18.567 chimein_beta[1338:19594] Init FacebookConnect Session
+2015-05-12 08:24:18.574 chimein_beta[1338:19594] [CDVTimer][facebookconnectplugin] 6.817043ms
+2015-05-12 08:24:18.574 chimein_beta[1338:19594] [CDVTimer][TotalPluginStartup] 31.984985ms
+2015-05-12 08:24:18.702 chimein_beta[1338:19594] Resetting plugins due to page load.
+2015-05-12 08:24:19.200 chimein_beta[1338:19594] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/239EFF23-4370-4634-889C-41D2E51F2CCB/chimein_beta.app/www/index.html
+2015-05-12 08:24:22.903 chimein_beta[1338:19594] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-12 08:24:22.970 chimein_beta[1338:19594] THREAD WARNING: ['FacebookConnectPlugin'] took '73.199951' ms. Plugin should use a background thread.
+2015-05-12 08:24:33.346 chimein_beta[1338:19594] Graph Path = /me
+2015-05-12 08:25:05.052 chimein_beta[1474:20337] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:25:05.054 chimein_beta[1474:20337] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:25:05.056 chimein_beta[1474:20337] Unlimited access to network resources
+2015-05-12 08:25:05.059 chimein_beta[1474:20337] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:25:05.163 chimein_beta[1474:20337] [CDVTimer][splashscreen] 20.424008ms
+2015-05-12 08:25:05.163 chimein_beta[1474:20337] Init FacebookConnect Session
+2015-05-12 08:25:05.168 chimein_beta[1474:20337] [CDVTimer][facebookconnectplugin] 5.150020ms
+2015-05-12 08:25:05.168 chimein_beta[1474:20337] [CDVTimer][TotalPluginStartup] 25.915980ms
+2015-05-12 08:25:05.281 chimein_beta[1474:20337] Resetting plugins due to page load.
+2015-05-12 08:25:05.774 chimein_beta[1474:20337] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/9B9A7FAE-C2F3-4B21-A0E0-190B089F6643/chimein_beta.app/www/index.html
+2015-05-12 08:25:13.104 chimein_beta[1474:20337] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-12 08:25:13.167 chimein_beta[1474:20337] THREAD WARNING: ['FacebookConnectPlugin'] took '68.940186' ms. Plugin should use a background thread.
+2015-05-12 08:25:24.215 chimein_beta[1474:20337] Graph Path = /me
+2015-05-12 08:25:45.235 chimein_beta[1603:20984] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:25:45.237 chimein_beta[1603:20984] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:25:45.241 chimein_beta[1603:20984] Unlimited access to network resources
+2015-05-12 08:25:45.245 chimein_beta[1603:20984] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:25:45.354 chimein_beta[1603:20984] [CDVTimer][splashscreen] 21.933019ms
+2015-05-12 08:25:45.354 chimein_beta[1603:20984] Init FacebookConnect Session
+2015-05-12 08:25:45.359 chimein_beta[1603:20984] [CDVTimer][facebookconnectplugin] 5.137980ms
+2015-05-12 08:25:45.359 chimein_beta[1603:20984] [CDVTimer][TotalPluginStartup] 27.444005ms
+2015-05-12 08:25:45.478 chimein_beta[1603:20984] Resetting plugins due to page load.
+2015-05-12 08:25:45.963 chimein_beta[1603:20984] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/8D60CC05-7289-4B8B-9A3C-784932B94469/chimein_beta.app/www/index.html
+2015-05-12 08:25:49.618 chimein_beta[1603:20984] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-12 08:25:49.683 chimein_beta[1603:20984] THREAD WARNING: ['FacebookConnectPlugin'] took '71.558105' ms. Plugin should use a background thread.
+2015-05-12 08:25:59.301 chimein_beta[1603:20984] Graph Path = /me
+2015-05-12 08:27:06.520 chimein_beta[1742:22140] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:27:06.521 chimein_beta[1742:22140] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:27:06.523 chimein_beta[1742:22140] Unlimited access to network resources
+2015-05-12 08:27:06.527 chimein_beta[1742:22140] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:27:06.633 chimein_beta[1742:22140] [CDVTimer][splashscreen] 22.826016ms
+2015-05-12 08:27:06.633 chimein_beta[1742:22140] Init FacebookConnect Session
+2015-05-12 08:27:06.638 chimein_beta[1742:22140] [CDVTimer][facebookconnectplugin] 5.268991ms
+2015-05-12 08:27:06.639 chimein_beta[1742:22140] [CDVTimer][TotalPluginStartup] 28.437018ms
+2015-05-12 08:27:06.757 chimein_beta[1742:22140] Resetting plugins due to page load.
+2015-05-12 08:27:07.259 chimein_beta[1742:22140] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/F2DC0131-3BFE-4EF7-9D9E-7EA72B934C98/chimein_beta.app/www/index.html
+2015-05-12 08:27:12.321 chimein_beta[1742:22140] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-12 08:27:12.384 chimein_beta[1742:22140] THREAD WARNING: ['FacebookConnectPlugin'] took '69.297852' ms. Plugin should use a background thread.
+2015-05-12 08:27:23.225 chimein_beta[1742:22140] Graph Path = /me
+2015-05-12 08:28:17.143 chimein_beta[1881:23029] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:28:17.144 chimein_beta[1881:23029] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:28:17.146 chimein_beta[1881:23029] Unlimited access to network resources
+2015-05-12 08:28:17.150 chimein_beta[1881:23029] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:28:17.268 chimein_beta[1881:23029] [CDVTimer][splashscreen] 22.651970ms
+2015-05-12 08:28:17.269 chimein_beta[1881:23029] Init FacebookConnect Session
+2015-05-12 08:28:17.276 chimein_beta[1881:23029] [CDVTimer][facebookconnectplugin] 7.813036ms
+2015-05-12 08:28:17.277 chimein_beta[1881:23029] [CDVTimer][TotalPluginStartup] 31.035006ms
+2015-05-12 08:28:17.426 chimein_beta[1881:23029] Resetting plugins due to page load.
+2015-05-12 08:28:18.022 chimein_beta[1881:23029] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/C40BEC6F-EA8A-454A-B42A-575F28979D06/chimein_beta.app/www/index.html
+2015-05-12 08:28:21.093 chimein_beta[1881:23029] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-12 08:28:21.189 chimein_beta[1881:23029] THREAD WARNING: ['FacebookConnectPlugin'] took '110.001953' ms. Plugin should use a background thread.
+2015-05-12 08:28:33.085 chimein_beta[1881:23029] Graph Path = /me
+2015-05-12 08:34:50.175 chimein_beta[2054:26659] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:34:50.177 chimein_beta[2054:26659] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:34:50.179 chimein_beta[2054:26659] Unlimited access to network resources
+2015-05-12 08:34:50.182 chimein_beta[2054:26659] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:34:50.282 chimein_beta[2054:26659] [CDVTimer][splashscreen] 19.838989ms
+2015-05-12 08:34:50.282 chimein_beta[2054:26659] Init FacebookConnect Session
+2015-05-12 08:34:50.289 chimein_beta[2054:26659] [CDVTimer][facebookconnectplugin] 7.136047ms
+2015-05-12 08:34:50.289 chimein_beta[2054:26659] [CDVTimer][TotalPluginStartup] 27.365983ms
+2015-05-12 08:34:50.408 chimein_beta[2054:26659] Resetting plugins due to page load.
+2015-05-12 08:34:50.976 chimein_beta[2054:26659] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/F85A28C0-CF2F-4D0C-9EC3-F1EDC75C0FBA/chimein_beta.app/www/index.html
+2015-05-12 08:35:29.686 chimein_beta[2188:27389] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:35:29.688 chimein_beta[2188:27389] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:35:29.690 chimein_beta[2188:27389] Unlimited access to network resources
+2015-05-12 08:35:29.693 chimein_beta[2188:27389] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:35:29.793 chimein_beta[2188:27389] [CDVTimer][splashscreen] 19.879997ms
+2015-05-12 08:35:29.793 chimein_beta[2188:27389] Init FacebookConnect Session
+2015-05-12 08:35:29.798 chimein_beta[2188:27389] [CDVTimer][facebookconnectplugin] 5.365968ms
+2015-05-12 08:35:29.799 chimein_beta[2188:27389] [CDVTimer][TotalPluginStartup] 25.619984ms
+2015-05-12 08:35:29.912 chimein_beta[2188:27389] Resetting plugins due to page load.
+2015-05-12 08:35:30.381 chimein_beta[2188:27389] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/EB3700A4-6E6F-4381-9CB5-B1525F36F858/chimein_beta.app/www/index.html
+2015-05-12 08:35:34.127 chimein_beta[2188:27389] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-12 08:35:34.190 chimein_beta[2188:27389] THREAD WARNING: ['FacebookConnectPlugin'] took '71.546875' ms. Plugin should use a background thread.
+2015-05-12 08:35:49.105 chimein_beta[2188:27389] Graph Path = /me
+2015-05-12 08:38:04.427 chimein_beta[2188:27389] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7b6bb750 H:|-(0)-[UIView:0x7b6b50d0]   (Names: '|':UIView:0x7b6ade90 )>",
+    "<NSLayoutConstraint:0x7b6bb7b0 H:[UIView:0x7b6b50d0]-(0)-|   (Names: '|':UIView:0x7b6ade90 )>",
+    "<NSLayoutConstraint:0x7b764530 H:|-(0)-[UIView:0x7b6ade90]   (Names: '|':UIView:0x7b697880 )>",
+    "<NSLayoutConstraint:0x7ae55a00 H:[UIView:0x7b6ade90]-(0)-|   (Names: '|':UIView:0x7b697880 )>",
+    "<NSLayoutConstraint:0x7b6bd410 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7b697880(180)]>",
+    "<NSLayoutConstraint:0x7b77cbd0 H:|-(0)-[_UIBackdropView:0x7b6c6700]   (Names: '|':UIView:0x7b6c6970 )>",
+    "<NSLayoutConstraint:0x7b77cc00 H:[_UIBackdropView:0x7b6c6700]-(0)-|   (Names: '|':UIView:0x7b6c6970 )>",
+    "<NSLayoutConstraint:0x7b77ca20 H:|-(0)-[UIView:0x7b6c6970]   (Names: '|':AVAlphaUpdatingView:0x7b765fd0 )>",
+    "<NSLayoutConstraint:0x7b77ca50 H:[UIView:0x7b6c6970]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x7b765fd0 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x7b6dea40 h=-&- v=-&- _UIBackdropContentView:0x7b6bf230.width == _UIBackdropView:0x7b6c6700.width>",
+    "<NSLayoutConstraint:0x7af7c560 H:|-(0)-[AVAlphaUpdatingView:0x7b765fd0]   (Names: '|':UIView:0x7b6b50d0 )>",
+    "<NSLayoutConstraint:0x7af7c5d0 H:[AVAlphaUpdatingView:0x7b765fd0]-(0)-|   (Names: '|':UIView:0x7b6b50d0 )>",
+    "<NSLayoutConstraint:0x7b6b89d0 UIView:0x7b6bf3f0.centerX == _UIBackdropContentView:0x7b6bf230.centerX>",
+    "<NSLayoutConstraint:0x7b6b8a70 UIView:0x7b6bf4e0.right == _UIBackdropContentView:0x7b6bf230.right - 15>",
+    "<NSLayoutConstraint:0x7b6baa50 UIView:0x7b6bf3f0.right <= UIView:0x7b6bf4e0.left - 15>",
+    "<NSLayoutConstraint:0x7b6baa80 H:|-(0)-[AVButton:0x7b778290](LTR)   (Names: '|':UIView:0x7b6bf3f0 )>",
+    "<NSLayoutConstraint:0x7b6ae7c0 AVButton:0x7b778910.centerX == AVButton:0x7b778290.right + 67>",
+    "<NSLayoutConstraint:0x7b6c6460 AVButton:0x7b778910.centerX == AVButton:0x7af735f0.left - 67>",
+    "<NSLayoutConstraint:0x7b6d7580 AVButton:0x7af735f0.right == UIView:0x7b6bf3f0.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7b77cc00 H:[_UIBackdropView:0x7b6c6700]-(0)-|   (Names: '|':UIView:0x7b6c6970 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2015-05-12 08:39:48.882 chimein_beta[2342:29950] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:39:48.884 chimein_beta[2342:29950] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:39:48.886 chimein_beta[2342:29950] Unlimited access to network resources
+2015-05-12 08:39:48.890 chimein_beta[2342:29950] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:39:49.013 chimein_beta[2342:29950] [CDVTimer][splashscreen] 23.992002ms
+2015-05-12 08:39:49.014 chimein_beta[2342:29950] Init FacebookConnect Session
+2015-05-12 08:39:49.021 chimein_beta[2342:29950] [CDVTimer][facebookconnectplugin] 7.860005ms
+2015-05-12 08:39:49.022 chimein_beta[2342:29950] [CDVTimer][TotalPluginStartup] 32.311022ms
+2015-05-12 08:39:49.174 chimein_beta[2342:29950] Resetting plugins due to page load.
+2015-05-12 08:39:49.815 chimein_beta[2342:29950] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/83C0A7BC-DED4-454F-952B-31099062919B/chimein_beta.app/www/index.html
+2015-05-12 08:48:38.559 chimein_beta[2535:35154] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-12 08:48:38.561 chimein_beta[2535:35154] Multi-tasking -> Device: YES, App: YES
+2015-05-12 08:48:38.564 chimein_beta[2535:35154] Unlimited access to network resources
+2015-05-12 08:48:38.567 chimein_beta[2535:35154] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-12 08:48:38.684 chimein_beta[2535:35154] [CDVTimer][splashscreen] 30.046999ms
+2015-05-12 08:48:38.685 chimein_beta[2535:35154] Init FacebookConnect Session
+2015-05-12 08:48:38.696 chimein_beta[2535:35154] [CDVTimer][facebookconnectplugin] 11.169970ms
+2015-05-12 08:48:38.696 chimein_beta[2535:35154] [CDVTimer][TotalPluginStartup] 41.783035ms
+2015-05-12 08:48:38.894 chimein_beta[2535:35154] Resetting plugins due to page load.
+2015-05-12 08:48:39.432 chimein_beta[2535:35154] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/03685ED3-D537-4853-B434-6805EA275BEC/chimein_beta.app/www/index.html
+2015-05-12 08:48:42.410 chimein_beta[2535:35154] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-12 08:48:42.474 chimein_beta[2535:35154] THREAD WARNING: ['FacebookConnectPlugin'] took '72.615967' ms. Plugin should use a background thread.
+2015-05-12 08:48:53.635 chimein_beta[2535:35154] Graph Path = /me
