@@ -9397,3 +9397,702 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-05-12 08:48:42.410 chimein_beta[2535:35154] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
 2015-05-12 08:48:42.474 chimein_beta[2535:35154] THREAD WARNING: ['FacebookConnectPlugin'] took '72.615967' ms. Plugin should use a background thread.
 2015-05-12 08:48:53.635 chimein_beta[2535:35154] Graph Path = /me
+2015-05-18 16:45:04.650 chimein_beta[1494:96092] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 16:45:04.656 chimein_beta[1494:96092] Multi-tasking -> Device: YES, App: YES
+2015-05-18 16:45:04.668 chimein_beta[1494:96092] Unlimited access to network resources
+2015-05-18 16:45:04.678 chimein_beta[1494:96092] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 16:45:05.130 chimein_beta[1494:96092] [CDVTimer][splashscreen] 149.778008ms
+2015-05-18 16:45:05.130 chimein_beta[1494:96092] Init FacebookConnect Session
+2015-05-18 16:45:05.163 chimein_beta[1494:96092] [CDVTimer][facebookconnectplugin] 32.579958ms
+2015-05-18 16:45:05.163 chimein_beta[1494:96092] [CDVTimer][TotalPluginStartup] 182.761014ms
+2015-05-18 16:45:05.441 chimein_beta[1494:96092] Resetting plugins due to page load.
+2015-05-18 16:45:06.388 chimein_beta[1494:96092] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/6F61972B-CB5A-4114-A7A6-64977D5E62D5/chimein_beta.app/www/index.html
+2015-05-18 16:45:10.373 chimein_beta[1494:96092] FBSDKLog: Cannot use the Facebook app or Safari to authorize, fb925938727427295 is not registered as a URL Scheme
+2015-05-18 16:45:10.457 chimein_beta[1494:96092] THREAD WARNING: ['FacebookConnectPlugin'] took '96.328369' ms. Plugin should use a background thread.
+2015-05-18 16:45:20.626 chimein_beta[1494:96092] Graph Path = /me
+2015-05-18 16:54:21.612 chimein_beta[1682:101819] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 16:54:21.614 chimein_beta[1682:101819] Multi-tasking -> Device: YES, App: YES
+2015-05-18 16:54:21.617 chimein_beta[1682:101819] Unlimited access to network resources
+2015-05-18 16:54:21.620 chimein_beta[1682:101819] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 16:54:21.742 chimein_beta[1682:101819] [CDVTimer][splashscreen] 29.425979ms
+2015-05-18 16:54:21.742 chimein_beta[1682:101819] Init FacebookConnect Session
+2015-05-18 16:54:21.749 chimein_beta[1682:101819] [CDVTimer][facebookconnectplugin] 7.214010ms
+2015-05-18 16:54:21.750 chimein_beta[1682:101819] [CDVTimer][TotalPluginStartup] 36.997020ms
+2015-05-18 16:54:21.898 chimein_beta[1682:101819] Resetting plugins due to page load.
+2015-05-18 16:54:22.509 chimein_beta[1682:101819] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/A379D795-B554-465B-BFEF-2E5102267774/chimein_beta.app/www/index.html
+2015-05-18 16:56:06.962 chimein_beta[1822:103369] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 16:56:06.963 chimein_beta[1822:103369] Multi-tasking -> Device: YES, App: YES
+2015-05-18 16:56:06.968 chimein_beta[1822:103369] Unlimited access to network resources
+2015-05-18 16:56:06.973 chimein_beta[1822:103369] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 16:56:07.088 chimein_beta[1822:103369] [CDVTimer][splashscreen] 28.460026ms
+2015-05-18 16:56:07.088 chimein_beta[1822:103369] Init FacebookConnect Session
+2015-05-18 16:56:07.095 chimein_beta[1822:103369] [CDVTimer][facebookconnectplugin] 6.783009ms
+2015-05-18 16:56:07.095 chimein_beta[1822:103369] [CDVTimer][TotalPluginStartup] 35.697997ms
+2015-05-18 16:56:07.238 chimein_beta[1822:103369] Resetting plugins due to page load.
+2015-05-18 16:56:08.050 chimein_beta[1822:103369] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/F150F2F8-3B87-4417-9549-ED0586691049/chimein_beta.app/www/index.html
+2015-05-18 17:01:02.275 chimein_beta[1968:106669] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:01:02.277 chimein_beta[1968:106669] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:01:02.280 chimein_beta[1968:106669] Unlimited access to network resources
+2015-05-18 17:01:02.283 chimein_beta[1968:106669] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:01:02.384 chimein_beta[1968:106669] [CDVTimer][splashscreen] 18.294990ms
+2015-05-18 17:01:02.384 chimein_beta[1968:106669] Init FacebookConnect Session
+2015-05-18 17:01:02.390 chimein_beta[1968:106669] [CDVTimer][facebookconnectplugin] 6.372035ms
+2015-05-18 17:01:02.390 chimein_beta[1968:106669] [CDVTimer][TotalPluginStartup] 25.049984ms
+2015-05-18 17:01:02.512 chimein_beta[1968:106669] Resetting plugins due to page load.
+2015-05-18 17:01:03.099 chimein_beta[1968:106669] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/1B882ADB-1542-4818-AE3E-3ACBE0119CD8/chimein_beta.app/www/index.html
+2015-05-18 17:01:57.323 chimein_beta[2103:107658] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:01:57.325 chimein_beta[2103:107658] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:01:57.327 chimein_beta[2103:107658] Unlimited access to network resources
+2015-05-18 17:01:57.330 chimein_beta[2103:107658] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:01:57.432 chimein_beta[2103:107658] [CDVTimer][splashscreen] 18.557012ms
+2015-05-18 17:01:57.432 chimein_beta[2103:107658] Init FacebookConnect Session
+2015-05-18 17:01:57.437 chimein_beta[2103:107658] [CDVTimer][facebookconnectplugin] 5.194008ms
+2015-05-18 17:01:57.437 chimein_beta[2103:107658] [CDVTimer][TotalPluginStartup] 24.105012ms
+2015-05-18 17:01:57.548 chimein_beta[2103:107658] Resetting plugins due to page load.
+2015-05-18 17:01:58.101 chimein_beta[2103:107658] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/20CF92AD-21A8-4C66-BFBB-6C662E6923D1/chimein_beta.app/www/index.html
+2015-05-18 17:02:23.884 chimein_beta[2234:108384] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:02:23.885 chimein_beta[2234:108384] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:02:23.888 chimein_beta[2234:108384] Unlimited access to network resources
+2015-05-18 17:02:23.892 chimein_beta[2234:108384] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:02:23.993 chimein_beta[2234:108384] [CDVTimer][splashscreen] 18.388987ms
+2015-05-18 17:02:23.993 chimein_beta[2234:108384] Init FacebookConnect Session
+2015-05-18 17:02:23.998 chimein_beta[2234:108384] [CDVTimer][facebookconnectplugin] 5.115986ms
+2015-05-18 17:02:23.999 chimein_beta[2234:108384] [CDVTimer][TotalPluginStartup] 23.926020ms
+2015-05-18 17:02:24.119 chimein_beta[2234:108384] Resetting plugins due to page load.
+2015-05-18 17:02:24.654 chimein_beta[2234:108384] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/05DF80C6-A2D8-4681-BC1B-56FE42E34A96/chimein_beta.app/www/index.html
+2015-05-18 17:02:49.383 chimein_beta[2372:109168] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:02:49.384 chimein_beta[2372:109168] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:02:49.387 chimein_beta[2372:109168] Unlimited access to network resources
+2015-05-18 17:02:49.390 chimein_beta[2372:109168] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:02:49.490 chimein_beta[2372:109168] [CDVTimer][splashscreen] 18.038034ms
+2015-05-18 17:02:49.491 chimein_beta[2372:109168] Init FacebookConnect Session
+2015-05-18 17:02:49.496 chimein_beta[2372:109168] [CDVTimer][facebookconnectplugin] 5.151987ms
+2015-05-18 17:02:49.496 chimein_beta[2372:109168] [CDVTimer][TotalPluginStartup] 23.554027ms
+2015-05-18 17:02:49.613 chimein_beta[2372:109168] Resetting plugins due to page load.
+2015-05-18 17:02:50.139 chimein_beta[2372:109168] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/64514473-7712-4EFB-BF96-F1DBA7B97A39/chimein_beta.app/www/index.html
+2015-05-18 17:03:20.826 chimein_beta[2506:109943] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:03:20.829 chimein_beta[2506:109943] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:03:20.833 chimein_beta[2506:109943] Unlimited access to network resources
+2015-05-18 17:03:20.837 chimein_beta[2506:109943] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:03:20.990 chimein_beta[2506:109943] [CDVTimer][splashscreen] 26.205957ms
+2015-05-18 17:03:20.991 chimein_beta[2506:109943] Init FacebookConnect Session
+2015-05-18 17:03:21.000 chimein_beta[2506:109943] [CDVTimer][facebookconnectplugin] 8.870006ms
+2015-05-18 17:03:21.000 chimein_beta[2506:109943] [CDVTimer][TotalPluginStartup] 35.549998ms
+2015-05-18 17:03:21.139 chimein_beta[2506:109943] Resetting plugins due to page load.
+2015-05-18 17:03:21.972 chimein_beta[2506:109943] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/EB0D1CC3-81B7-4470-B299-0C53C1962617/chimein_beta.app/www/index.html
+2015-05-18 17:04:29.334 chimein_beta[2641:110974] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:04:29.336 chimein_beta[2641:110974] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:04:29.339 chimein_beta[2641:110974] Unlimited access to network resources
+2015-05-18 17:04:29.342 chimein_beta[2641:110974] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:04:29.444 chimein_beta[2641:110974] [CDVTimer][splashscreen] 17.947972ms
+2015-05-18 17:04:29.444 chimein_beta[2641:110974] Init FacebookConnect Session
+2015-05-18 17:04:29.451 chimein_beta[2641:110974] [CDVTimer][facebookconnectplugin] 6.666958ms
+2015-05-18 17:04:29.451 chimein_beta[2641:110974] [CDVTimer][TotalPluginStartup] 24.989009ms
+2015-05-18 17:04:29.571 chimein_beta[2641:110974] Resetting plugins due to page load.
+2015-05-18 17:04:30.193 chimein_beta[2641:110974] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/BBEB0613-9D41-4237-8EC7-B0ACA4145B52/chimein_beta.app/www/index.html
+2015-05-18 17:04:55.634 chimein_beta[2775:111598] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:04:55.635 chimein_beta[2775:111598] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:04:55.637 chimein_beta[2775:111598] Unlimited access to network resources
+2015-05-18 17:04:55.641 chimein_beta[2775:111598] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:04:55.742 chimein_beta[2775:111598] [CDVTimer][splashscreen] 18.410981ms
+2015-05-18 17:04:55.742 chimein_beta[2775:111598] Init FacebookConnect Session
+2015-05-18 17:04:55.747 chimein_beta[2775:111598] [CDVTimer][facebookconnectplugin] 5.289972ms
+2015-05-18 17:04:55.747 chimein_beta[2775:111598] [CDVTimer][TotalPluginStartup] 24.131954ms
+2015-05-18 17:04:55.867 chimein_beta[2775:111598] Resetting plugins due to page load.
+2015-05-18 17:04:56.405 chimein_beta[2775:111598] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/334B94EE-8F22-40DC-9250-5920325E0C7D/chimein_beta.app/www/index.html
+2015-05-18 17:05:15.656 chimein_beta[2905:112157] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:05:15.657 chimein_beta[2905:112157] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:05:15.660 chimein_beta[2905:112157] Unlimited access to network resources
+2015-05-18 17:05:15.663 chimein_beta[2905:112157] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:05:15.768 chimein_beta[2905:112157] [CDVTimer][splashscreen] 18.294990ms
+2015-05-18 17:05:15.768 chimein_beta[2905:112157] Init FacebookConnect Session
+2015-05-18 17:05:15.775 chimein_beta[2905:112157] [CDVTimer][facebookconnectplugin] 6.354988ms
+2015-05-18 17:05:15.775 chimein_beta[2905:112157] [CDVTimer][TotalPluginStartup] 25.175989ms
+2015-05-18 17:05:15.892 chimein_beta[2905:112157] Resetting plugins due to page load.
+2015-05-18 17:05:16.656 chimein_beta[2905:112157] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/BF2991B8-1E33-4E9A-82CA-4DC1A7B76591/chimein_beta.app/www/index.html
+2015-05-18 17:05:37.935 chimein_beta[3039:112784] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:05:37.936 chimein_beta[3039:112784] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:05:37.939 chimein_beta[3039:112784] Unlimited access to network resources
+2015-05-18 17:05:37.942 chimein_beta[3039:112784] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:05:38.043 chimein_beta[3039:112784] [CDVTimer][splashscreen] 18.678010ms
+2015-05-18 17:05:38.043 chimein_beta[3039:112784] Init FacebookConnect Session
+2015-05-18 17:05:38.049 chimein_beta[3039:112784] [CDVTimer][facebookconnectplugin] 5.908012ms
+2015-05-18 17:05:38.049 chimein_beta[3039:112784] [CDVTimer][TotalPluginStartup] 24.959981ms
+2015-05-18 17:05:38.178 chimein_beta[3039:112784] Resetting plugins due to page load.
+2015-05-18 17:05:38.817 chimein_beta[3039:112784] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/3592A21B-B4F2-448F-BF7B-B6D38380FCF4/chimein_beta.app/www/index.html
+2015-05-18 17:06:23.796 chimein_beta[3167:113617] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:06:23.798 chimein_beta[3167:113617] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:06:23.800 chimein_beta[3167:113617] Unlimited access to network resources
+2015-05-18 17:06:23.803 chimein_beta[3167:113617] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:06:23.904 chimein_beta[3167:113617] [CDVTimer][splashscreen] 18.090963ms
+2015-05-18 17:06:23.905 chimein_beta[3167:113617] Init FacebookConnect Session
+2015-05-18 17:06:23.911 chimein_beta[3167:113617] [CDVTimer][facebookconnectplugin] 6.244957ms
+2015-05-18 17:06:23.911 chimein_beta[3167:113617] [CDVTimer][TotalPluginStartup] 24.798989ms
+2015-05-18 17:06:24.037 chimein_beta[3167:113617] Resetting plugins due to page load.
+2015-05-18 17:06:24.580 chimein_beta[3167:113617] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/9FA77703-52CD-4F2A-AA46-5710D2730EF0/chimein_beta.app/www/index.html
+2015-05-18 17:18:15.789 chimein_beta[3362:120455] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 17:18:15.790 chimein_beta[3362:120455] Multi-tasking -> Device: YES, App: YES
+2015-05-18 17:18:15.795 chimein_beta[3362:120455] Unlimited access to network resources
+2015-05-18 17:18:15.799 chimein_beta[3362:120455] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 17:18:16.036 chimein_beta[3362:120455] [CDVTimer][splashscreen] 26.722968ms
+2015-05-18 17:18:16.036 chimein_beta[3362:120455] Init FacebookConnect Session
+2015-05-18 17:18:16.045 chimein_beta[3362:120455] [CDVTimer][facebookconnectplugin] 8.315027ms
+2015-05-18 17:18:16.045 chimein_beta[3362:120455] [CDVTimer][TotalPluginStartup] 35.596967ms
+2015-05-18 17:18:16.236 chimein_beta[3362:120455] Resetting plugins due to page load.
+2015-05-18 17:18:17.211 chimein_beta[3362:120455] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/945D0BC8-6180-4945-8EA3-CFF62B1F2D32/chimein_beta.app/www/index.html
+2015-05-18 18:50:41.010 chimein_beta[3572:129119] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 18:50:41.013 chimein_beta[3572:129119] Multi-tasking -> Device: YES, App: YES
+2015-05-18 18:50:41.022 chimein_beta[3572:129119] Unlimited access to network resources
+2015-05-18 18:50:41.031 chimein_beta[3572:129119] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 18:50:41.333 chimein_beta[3572:129119] [CDVTimer][splashscreen] 137.311041ms
+2015-05-18 18:50:41.333 chimein_beta[3572:129119] Init FacebookConnect Session
+2015-05-18 18:50:41.353 chimein_beta[3572:129119] [CDVTimer][facebookconnectplugin] 20.303011ms
+2015-05-18 18:50:41.353 chimein_beta[3572:129119] [CDVTimer][TotalPluginStartup] 158.029020ms
+2015-05-18 18:50:41.520 chimein_beta[3572:129119] Resetting plugins due to page load.
+2015-05-18 18:50:42.179 chimein_beta[3572:129119] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/A06C8B2D-CE0C-4F1C-B8C3-D35837D60985/chimein_beta.app/www/index.html
+2015-05-18 18:51:56.173 chimein_beta[3707:130172] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 18:51:56.175 chimein_beta[3707:130172] Multi-tasking -> Device: YES, App: YES
+2015-05-18 18:51:56.178 chimein_beta[3707:130172] Unlimited access to network resources
+2015-05-18 18:51:56.181 chimein_beta[3707:130172] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 18:51:56.291 chimein_beta[3707:130172] [CDVTimer][splashscreen] 24.737000ms
+2015-05-18 18:51:56.291 chimein_beta[3707:130172] Init FacebookConnect Session
+2015-05-18 18:51:56.296 chimein_beta[3707:130172] [CDVTimer][facebookconnectplugin] 5.235016ms
+2015-05-18 18:51:56.297 chimein_beta[3707:130172] [CDVTimer][TotalPluginStartup] 30.337989ms
+2015-05-18 18:51:56.439 chimein_beta[3707:130172] Resetting plugins due to page load.
+2015-05-18 18:51:56.991 chimein_beta[3707:130172] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/213867AA-EA25-45C1-AB22-66088325D2D2/chimein_beta.app/www/index.html
+2015-05-19 12:06:35.309 chimein_beta[912:9717] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-19 12:06:35.314 chimein_beta[912:9717] Multi-tasking -> Device: YES, App: YES
+2015-05-19 12:06:35.325 chimein_beta[912:9717] Unlimited access to network resources
+2015-05-19 12:06:35.332 chimein_beta[912:9717] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 12:06:35.716 chimein_beta[912:9717] [CDVTimer][splashscreen] 132.632017ms
+2015-05-19 12:06:35.716 chimein_beta[912:9717] Init FacebookConnect Session
+2015-05-19 12:06:35.751 chimein_beta[912:9717] [CDVTimer][facebookconnectplugin] 34.754992ms
+2015-05-19 12:06:35.751 chimein_beta[912:9717] [CDVTimer][TotalPluginStartup] 167.744994ms
+2015-05-19 12:06:35.956 chimein_beta[912:9717] Resetting plugins due to page load.
+2015-05-19 12:06:37.083 chimein_beta[912:9717] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/FE460A67-4A10-487B-8CCB-64ADB4BA858E/chimein_beta.app/www/index.html
+2015-05-19 12:24:40.664 chimein_beta[1209:23671] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-19 12:24:40.666 chimein_beta[1209:23671] Multi-tasking -> Device: YES, App: YES
+2015-05-19 12:24:40.669 chimein_beta[1209:23671] Unlimited access to network resources
+2015-05-19 12:24:40.672 chimein_beta[1209:23671] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 12:24:40.790 chimein_beta[1209:23671] [CDVTimer][splashscreen] 25.919020ms
+2015-05-19 12:24:40.790 chimein_beta[1209:23671] Init FacebookConnect Session
+2015-05-19 12:24:40.796 chimein_beta[1209:23671] [CDVTimer][facebookconnectplugin] 6.376982ms
+2015-05-19 12:24:40.796 chimein_beta[1209:23671] [CDVTimer][TotalPluginStartup] 32.661974ms
+2015-05-19 12:24:40.953 chimein_beta[1209:23671] Resetting plugins due to page load.
+2015-05-19 12:24:41.594 chimein_beta[1209:23671] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/967AF710-57EE-4BD4-B945-8FD902ECBFDF/chimein_beta.app/www/index.html
+2015-05-19 12:25:13.553 chimein_beta[1344:24548] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-19 12:25:13.554 chimein_beta[1344:24548] Multi-tasking -> Device: YES, App: YES
+2015-05-19 12:25:13.557 chimein_beta[1344:24548] Unlimited access to network resources
+2015-05-19 12:25:13.560 chimein_beta[1344:24548] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 12:25:13.703 chimein_beta[1344:24548] [CDVTimer][splashscreen] 23.128033ms
+2015-05-19 12:25:13.703 chimein_beta[1344:24548] Init FacebookConnect Session
+2015-05-19 12:25:13.709 chimein_beta[1344:24548] [CDVTimer][facebookconnectplugin] 6.370008ms
+2015-05-19 12:25:13.709 chimein_beta[1344:24548] [CDVTimer][TotalPluginStartup] 29.931009ms
+2015-05-19 12:25:13.857 chimein_beta[1344:24548] Resetting plugins due to page load.
+2015-05-19 12:28:01.486 chimein_beta[1485:26623] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-19 12:28:01.489 chimein_beta[1485:26623] Multi-tasking -> Device: YES, App: YES
+2015-05-19 12:28:01.493 chimein_beta[1485:26623] Unlimited access to network resources
+2015-05-19 12:28:01.496 chimein_beta[1485:26623] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 12:28:01.603 chimein_beta[1485:26623] [CDVTimer][splashscreen] 21.327972ms
+2015-05-19 12:28:01.603 chimein_beta[1485:26623] Init FacebookConnect Session
+2015-05-19 12:28:01.609 chimein_beta[1485:26623] [CDVTimer][facebookconnectplugin] 6.301999ms
+2015-05-19 12:28:01.609 chimein_beta[1485:26623] [CDVTimer][TotalPluginStartup] 27.983010ms
+2015-05-19 12:28:01.743 chimein_beta[1485:26623] Resetting plugins due to page load.
+2015-05-19 12:28:02.445 chimein_beta[1485:26623] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/AECCB655-ECEF-4C81-B55D-1CE3A34F623B/chimein_beta.app/www/index.html
+2015-05-19 14:54:14.897 chimein_beta[1485:74219] Communications error: <OS_xpc_error: <error: 0x33d85f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x33d883c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-19 16:22:02.523 chimein_beta[1485:135118] Communications error: <OS_xpc_error: <error: 0x33d85f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x33d883c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-19 16:45:45.174 chimein_beta[1485:150023] Communications error: <OS_xpc_error: <error: 0x33d85f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x33d883c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-19 16:46:11.155 chimein_beta[3102:150872] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-19 16:46:11.158 chimein_beta[3102:150872] Multi-tasking -> Device: YES, App: YES
+2015-05-19 16:46:11.169 chimein_beta[3102:150872] Unlimited access to network resources
+2015-05-19 16:46:11.181 chimein_beta[3102:150872] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 16:46:11.493 chimein_beta[3102:150872] [CDVTimer][splashscreen] 103.810966ms
+2015-05-19 16:46:11.494 chimein_beta[3102:150872] Init FacebookConnect Session
+2015-05-19 16:46:11.625 chimein_beta[3102:150872] [CDVTimer][facebookconnectplugin] 130.923033ms
+2015-05-19 16:46:11.625 chimein_beta[3102:150872] [CDVTimer][TotalPluginStartup] 235.209048ms
+2015-05-19 16:46:11.897 chimein_beta[3102:150872] Resetting plugins due to page load.
+2015-05-19 16:46:13.078 chimein_beta[3102:150872] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/137BC540-FF85-4CDA-A47A-2F47AEF1F879/chimein_beta.app/www/index.html#pageone
+2015-05-19 17:03:23.160 chimein_beta[3440:162788] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-19 17:03:23.162 chimein_beta[3440:162788] Multi-tasking -> Device: YES, App: YES
+2015-05-19 17:03:23.164 chimein_beta[3440:162788] Unlimited access to network resources
+2015-05-19 17:03:23.168 chimein_beta[3440:162788] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 17:03:23.292 chimein_beta[3440:162788] [CDVTimer][splashscreen] 29.356003ms
+2015-05-19 17:03:23.293 chimein_beta[3440:162788] Init FacebookConnect Session
+2015-05-19 17:03:23.356 chimein_beta[3440:162788] [CDVTimer][facebookconnectplugin] 63.446999ms
+2015-05-19 17:03:23.356 chimein_beta[3440:162788] [CDVTimer][TotalPluginStartup] 93.178988ms
+2015-05-19 17:03:23.527 chimein_beta[3440:162788] Resetting plugins due to page load.
+2015-05-19 17:03:24.195 chimein_beta[3440:162788] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/00D5D086-3F76-4D0D-B37D-B832E10E7D21/chimein_beta.app/www/index.html
+2015-05-19 17:03:48.426 chimein_beta[3582:163587] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-19 17:03:48.427 chimein_beta[3582:163587] Multi-tasking -> Device: YES, App: YES
+2015-05-19 17:03:48.431 chimein_beta[3582:163587] Unlimited access to network resources
+2015-05-19 17:03:48.439 chimein_beta[3582:163587] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 17:03:48.558 chimein_beta[3582:163587] [CDVTimer][splashscreen] 24.010003ms
+2015-05-19 17:03:48.558 chimein_beta[3582:163587] Init FacebookConnect Session
+2015-05-19 17:03:48.564 chimein_beta[3582:163587] [CDVTimer][facebookconnectplugin] 5.958021ms
+2015-05-19 17:03:48.564 chimein_beta[3582:163587] [CDVTimer][TotalPluginStartup] 30.340016ms
+2015-05-19 17:03:48.701 chimein_beta[3582:163587] Resetting plugins due to page load.
+2015-05-19 17:03:49.322 chimein_beta[3582:163587] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/7BFE2329-D367-4A53-AFEE-440677185EC7/chimein_beta.app/www/index.html
+2015-05-19 17:05:49.820 chimein_beta[3726:165173] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-19 17:05:49.821 chimein_beta[3726:165173] Multi-tasking -> Device: YES, App: YES
+2015-05-19 17:05:49.824 chimein_beta[3726:165173] Unlimited access to network resources
+2015-05-19 17:05:49.827 chimein_beta[3726:165173] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 17:05:49.935 chimein_beta[3726:165173] [CDVTimer][splashscreen] 21.234989ms
+2015-05-19 17:05:49.935 chimein_beta[3726:165173] Init FacebookConnect Session
+2015-05-19 17:05:49.941 chimein_beta[3726:165173] [CDVTimer][facebookconnectplugin] 6.166995ms
+2015-05-19 17:05:49.942 chimein_beta[3726:165173] [CDVTimer][TotalPluginStartup] 27.848005ms
+2015-05-19 17:05:50.079 chimein_beta[3726:165173] Resetting plugins due to page load.
+2015-05-19 17:05:50.735 chimein_beta[3726:165173] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/8D0B3268-9042-4D16-BA38-233C3E9A5196/chimein_beta.app/www/index.html
+2015-05-19 17:06:33.520 chimein_beta[3859:166110] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-19 17:06:33.521 chimein_beta[3859:166110] Multi-tasking -> Device: YES, App: YES
+2015-05-19 17:06:33.524 chimein_beta[3859:166110] Unlimited access to network resources
+2015-05-19 17:06:33.528 chimein_beta[3859:166110] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-19 17:06:33.648 chimein_beta[3859:166110] [CDVTimer][splashscreen] 19.753039ms
+2015-05-19 17:06:33.649 chimein_beta[3859:166110] Init FacebookConnect Session
+2015-05-19 17:06:33.656 chimein_beta[3859:166110] [CDVTimer][facebookconnectplugin] 7.821023ms
+2015-05-19 17:06:33.657 chimein_beta[3859:166110] [CDVTimer][TotalPluginStartup] 28.008997ms
+2015-05-19 17:06:33.789 chimein_beta[3859:166110] Resetting plugins due to page load.
+2015-05-19 17:06:34.431 chimein_beta[3859:166110] Finished load of: file:///Users/Tessa/Library/Developer/CoreSimulator/Devices/F35012AA-8E30-4618-80F4-DCE4596FC1DB/data/Containers/Bundle/Application/2E559C9D-D297-479F-9036-1FB0AA2893FE/chimein_beta.app/www/index.html
+2015-05-19 17:40:32.626 chimein_beta[3859:166110] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x79f56d60 H:|-(0)-[UIView:0x79f4b310]   (Names: '|':UIView:0x7a7ac300 )>",
+    "<NSLayoutConstraint:0x79f56dc0 H:[UIView:0x79f4b310]-(0)-|   (Names: '|':UIView:0x7a7ac300 )>",
+    "<NSLayoutConstraint:0x79e3c1b0 H:|-(0)-[UIView:0x7a7ac300]   (Names: '|':UIView:0x7a6a7230 )>",
+    "<NSLayoutConstraint:0x79e4faf0 H:[UIView:0x7a7ac300]-(0)-|   (Names: '|':UIView:0x7a6a7230 )>",
+    "<NSLayoutConstraint:0x7a7aeb60 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a6a7230(180)]>",
+    "<NSLayoutConstraint:0x7a6e84a0 H:|-(0)-[_UIBackdropView:0x79e39e90]   (Names: '|':UIView:0x79e3aee0 )>",
+    "<NSLayoutConstraint:0x7a6e84d0 H:[_UIBackdropView:0x79e39e90]-(0)-|   (Names: '|':UIView:0x79e3aee0 )>",
+    "<NSLayoutConstraint:0x7a6e82f0 H:|-(0)-[UIView:0x79e3aee0]   (Names: '|':AVAlphaUpdatingView:0x7a7b69a0 )>",
+    "<NSLayoutConstraint:0x7a6e8320 H:[UIView:0x79e3aee0]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x7a7b69a0 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x7a6f39a0 h=-&- v=-&- _UIBackdropContentView:0x79e3adf0.width == _UIBackdropView:0x79e39e90.width>",
+    "<NSLayoutConstraint:0x7a7d3b80 H:|-(0)-[AVAlphaUpdatingView:0x7a7b69a0]   (Names: '|':UIView:0x79f4b310 )>",
+    "<NSLayoutConstraint:0x7a7d3bf0 H:[AVAlphaUpdatingView:0x7a7b69a0]-(0)-|   (Names: '|':UIView:0x79f4b310 )>",
+    "<NSLayoutConstraint:0x7a7ce600 UIView:0x79e48f10.centerX == _UIBackdropContentView:0x79e3adf0.centerX>",
+    "<NSLayoutConstraint:0x7a7b6c30 UIView:0x79e39d40.right == _UIBackdropContentView:0x79e3adf0.right - 15>",
+    "<NSLayoutConstraint:0x7a7d33d0 UIView:0x79e48f10.right <= UIView:0x79e39d40.left - 15>",
+    "<NSLayoutConstraint:0x7a7d2690 H:|-(0)-[AVButton:0x7a7c5f40](LTR)   (Names: '|':UIView:0x79e48f10 )>",
+    "<NSLayoutConstraint:0x7a7b3e50 AVButton:0x7a7c7890.centerX == AVButton:0x7a7c5f40.right + 67>",
+    "<NSLayoutConstraint:0x7a1c5d80 AVButton:0x7a7c7890.centerX == AVButton:0x7a6e19a0.left - 67>",
+    "<NSLayoutConstraint:0x7a7c5d90 AVButton:0x7a6e19a0.right == UIView:0x79e48f10.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a6e84d0 H:[_UIBackdropView:0x79e39e90]-(0)-|   (Names: '|':UIView:0x79e3aee0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2015-05-19 17:51:48.296 chimein_beta[3859:166110] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x79e60130 H:|-(0)-[UIView:0x79e650d0]   (Names: '|':UIView:0x79f40630 )>",
+    "<NSLayoutConstraint:0x79e60170 H:[UIView:0x79e650d0]-(0)-|   (Names: '|':UIView:0x79f40630 )>",
+    "<NSLayoutConstraint:0x7a7b3300 H:|-(0)-[UIView:0x79f40630]   (Names: '|':UIView:0x7a798900 )>",
+    "<NSLayoutConstraint:0x7a7b3330 H:[UIView:0x79f40630]-(0)-|   (Names: '|':UIView:0x7a798900 )>",
+    "<NSLayoutConstraint:0x79f39fe0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a798900(180)]>",
+    "<NSLayoutConstraint:0x79f4efc0 H:|-(0)-[_UIBackdropView:0x79f4d9b0]   (Names: '|':UIView:0x79f65640 )>",
+    "<NSLayoutConstraint:0x79f4eff0 H:[_UIBackdropView:0x79f4d9b0]-(0)-|   (Names: '|':UIView:0x79f65640 )>",
+    "<NSLayoutConstraint:0x79f4ee10 H:|-(0)-[UIView:0x79f65640]   (Names: '|':AVAlphaUpdatingView:0x7a6b8c20 )>",
+    "<NSLayoutConstraint:0x79f4ee40 H:[UIView:0x79f65640]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x7a6b8c20 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x79f34190 h=-&- v=-&- _UIBackdropContentView:0x79f3dad0.width == _UIBackdropView:0x79f4d9b0.width>",
+    "<NSLayoutConstraint:0x7a6b7100 H:|-(0)-[AVAlphaUpdatingView:0x7a6b8c20]   (Names: '|':UIView:0x79e650d0 )>",
+    "<NSLayoutConstraint:0x7a6b7b00 H:[AVAlphaUpdatingView:0x7a6b8c20]-(0)-|   (Names: '|':UIView:0x79e650d0 )>",
+    "<NSLayoutConstraint:0x7a6e4040 UIView:0x79f5f1f0.centerX == _UIBackdropContentView:0x79f3dad0.centerX>",
+    "<NSLayoutConstraint:0x7a6e40e0 UIView:0x79f5f280.right == _UIBackdropContentView:0x79f3dad0.right - 15>",
+    "<NSLayoutConstraint:0x7a6e41a0 UIView:0x79f5f1f0.right <= UIView:0x79f5f280.left - 15>",
+    "<NSLayoutConstraint:0x7a6e41d0 H:|-(0)-[AVButton:0x79e663e0](LTR)   (Names: '|':UIView:0x79f5f1f0 )>",
+    "<NSLayoutConstraint:0x7a6e4230 AVButton:0x7a7c4140.centerX == AVButton:0x79e663e0.right + 67>",
+    "<NSLayoutConstraint:0x7a6e4260 AVButton:0x7a7c4140.centerX == AVButton:0x7a11bf40.left - 67>",
+    "<NSLayoutConstraint:0x7a6e3ee0 AVButton:0x7a11bf40.right == UIView:0x79f5f1f0.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x79f4eff0 H:[_UIBackdropView:0x79f4d9b0]-(0)-|   (Names: '|':UIView:0x79f65640 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2015-05-19 18:00:31.428 chimein_beta[3859:166110] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a6cb680 H:|-(0)-[UIView:0x7a6e1b90]   (Names: '|':UIView:0x79ff1f80 )>",
+    "<NSLayoutConstraint:0x7a6cb6b0 H:[UIView:0x7a6e1b90]-(0)-|   (Names: '|':UIView:0x79ff1f80 )>",
+    "<NSLayoutConstraint:0x7a6e1c40 H:|-(0)-[UIView:0x79ff1f80]   (Names: '|':UIView:0x7a6ba000 )>",
+    "<NSLayoutConstraint:0x7a01eec0 H:[UIView:0x79ff1f80]-(0)-|   (Names: '|':UIView:0x7a6ba000 )>",
+    "<NSLayoutConstraint:0x7a6de2f0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a6ba000(180)]>",
+    "<NSLayoutConstraint:0x7a64b640 H:|-(0)-[_UIBackdropView:0x79e0d890]   (Names: '|':UIView:0x79e158a0 )>",
+    "<NSLayoutConstraint:0x7a64b610 H:[_UIBackdropView:0x79e0d890]-(0)-|   (Names: '|':UIView:0x79e158a0 )>",
+    "<NSLayoutConstraint:0x7a64b7b0 H:|-(0)-[UIView:0x79e158a0]   (Names: '|':AVAlphaUpdatingView:0x7a65d020 )>",
+    "<NSLayoutConstraint:0x7a64b780 H:[UIView:0x79e158a0]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x7a65d020 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x79f11970 h=-&- v=-&- _UIBackdropContentView:0x79e214c0.width == _UIBackdropView:0x79e0d890.width>",
+    "<NSLayoutConstraint:0x7a646200 H:|-(0)-[AVAlphaUpdatingView:0x7a65d020]   (Names: '|':UIView:0x7a6e1b90 )>",
+    "<NSLayoutConstraint:0x7a646190 H:[AVAlphaUpdatingView:0x7a65d020]-(0)-|   (Names: '|':UIView:0x7a6e1b90 )>",
+    "<NSLayoutConstraint:0x7a6c1370 UIView:0x79e1a190.centerX == _UIBackdropContentView:0x79e214c0.centerX>",
+    "<NSLayoutConstraint:0x7a657390 UIView:0x79e27be0.right == _UIBackdropContentView:0x79e214c0.right - 15>",
+    "<NSLayoutConstraint:0x7a657b90 UIView:0x79e1a190.right <= UIView:0x79e27be0.left - 15>",
+    "<NSLayoutConstraint:0x7a657bc0 H:|-(0)-[AVButton:0x79f04310](LTR)   (Names: '|':UIView:0x79e1a190 )>",
+    "<NSLayoutConstraint:0x7a658100 AVButton:0x79f1b270.centerX == AVButton:0x79f04310.right + 67>",
+    "<NSLayoutConstraint:0x7a655d80 AVButton:0x79f1b270.centerX == AVButton:0x79f07b90.left - 67>",
+    "<NSLayoutConstraint:0x7a6baa90 AVButton:0x79f07b90.right == UIView:0x79e1a190.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a64b610 H:[_UIBackdropView:0x79e0d890]-(0)-|   (Names: '|':UIView:0x79e158a0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2015-05-19 18:00:53.301 chimein_beta[3859:166110] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x79e3a8b0 H:|-(0)-[UIView:0x79e53f00]   (Names: '|':UIView:0x79e5da70 )>",
+    "<NSLayoutConstraint:0x79edf740 H:[UIView:0x79e53f00]-(0)-|   (Names: '|':UIView:0x79e5da70 )>",
+    "<NSLayoutConstraint:0x7a7be3f0 H:|-(0)-[UIView:0x79e5da70]   (Names: '|':UIView:0x79fc8aa0 )>",
+    "<NSLayoutConstraint:0x7a1392e0 H:[UIView:0x79e5da70]-(0)-|   (Names: '|':UIView:0x79fc8aa0 )>",
+    "<NSLayoutConstraint:0x7a783be0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x79fc8aa0(180)]>",
+    "<NSLayoutConstraint:0x7a1407f0 H:|-(0)-[_UIBackdropView:0x7a036c20]   (Names: '|':UIView:0x7a6b70c0 )>",
+    "<NSLayoutConstraint:0x7a1390b0 H:[_UIBackdropView:0x7a036c20]-(0)-|   (Names: '|':UIView:0x7a6b70c0 )>",
+    "<NSLayoutConstraint:0x7a798fb0 H:|-(0)-[UIView:0x7a6b70c0]   (Names: '|':AVAlphaUpdatingView:0x7a7eec30 )>",
+    "<NSLayoutConstraint:0x7a11be70 H:[UIView:0x7a6b70c0]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x7a7eec30 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x7a694060 h=-&- v=-&- _UIBackdropContentView:0x7a6b53d0.width == _UIBackdropView:0x7a036c20.width>",
+    "<NSLayoutConstraint:0x7a016c10 H:|-(0)-[AVAlphaUpdatingView:0x7a7eec30]   (Names: '|':UIView:0x79e53f00 )>",
+    "<NSLayoutConstraint:0x7a6ac3a0 H:[AVAlphaUpdatingView:0x7a7eec30]-(0)-|   (Names: '|':UIView:0x79e53f00 )>",
+    "<NSLayoutConstraint:0x7a05ac00 UIView:0x7a01b290.centerX == _UIBackdropContentView:0x7a6b53d0.centerX>",
+    "<NSLayoutConstraint:0x7a6a8670 UIView:0x7a0469e0.right == _UIBackdropContentView:0x7a6b53d0.right - 15>",
+    "<NSLayoutConstraint:0x7a0c6550 UIView:0x7a01b290.right <= UIView:0x7a0469e0.left - 15>",
+    "<NSLayoutConstraint:0x7a00d120 H:|-(0)-[AVButton:0x7a6d81e0](LTR)   (Names: '|':UIView:0x7a01b290 )>",
+    "<NSLayoutConstraint:0x7a6dbde0 AVButton:0x7a0b4c80.centerX == AVButton:0x7a6d81e0.right + 67>",
+    "<NSLayoutConstraint:0x7a000360 AVButton:0x7a0b4c80.centerX == AVButton:0x7a6cb650.left - 67>",
+    "<NSLayoutConstraint:0x7a6db570 AVButton:0x7a6cb650.right == UIView:0x7a01b290.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a1390b0 H:[_UIBackdropView:0x7a036c20]-(0)-|   (Names: '|':UIView:0x7a6b70c0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2015-05-19 18:03:05.876 chimein_beta[3859:166110] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a6a0f60 H:|-(0)-[UIView:0x7a6d1f50]   (Names: '|':UIView:0x7a6d6b50 )>",
+    "<NSLayoutConstraint:0x7a03adf0 H:[UIView:0x7a6d1f50]-(0)-|   (Names: '|':UIView:0x7a6d6b50 )>",
+    "<NSLayoutConstraint:0x7a7c77e0 H:|-(0)-[UIView:0x7a6d6b50]   (Names: '|':UIView:0x7a12c350 )>",
+    "<NSLayoutConstraint:0x7a78d3b0 H:[UIView:0x7a6d6b50]-(0)-|   (Names: '|':UIView:0x7a12c350 )>",
+    "<NSLayoutConstraint:0x7a7b0390 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a12c350(180)]>",
+    "<NSLayoutConstraint:0x7a6a3d60 H:|-(0)-[_UIBackdropView:0x7a01ffb0]   (Names: '|':UIView:0x7a0051d0 )>",
+    "<NSLayoutConstraint:0x7a6a3d90 H:[_UIBackdropView:0x7a01ffb0]-(0)-|   (Names: '|':UIView:0x7a0051d0 )>",
+    "<NSLayoutConstraint:0x7a6d8630 H:|-(0)-[UIView:0x7a0051d0]   (Names: '|':AVAlphaUpdatingView:0x7a6a5690 )>",
+    "<NSLayoutConstraint:0x7a6d8660 H:[UIView:0x7a0051d0]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x7a6a5690 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x7a103c50 h=-&- v=-&- _UIBackdropContentView:0x7a67e620.width == _UIBackdropView:0x7a01ffb0.width>",
+    "<NSLayoutConstraint:0x7a6e4000 H:|-(0)-[AVAlphaUpdatingView:0x7a6a5690]   (Names: '|':UIView:0x7a6d1f50 )>",
+    "<NSLayoutConstraint:0x7a6e4070 H:[AVAlphaUpdatingView:0x7a6a5690]-(0)-|   (Names: '|':UIView:0x7a6d1f50 )>",
+    "<NSLayoutConstraint:0x7a7a6c20 UIView:0x7a013c40.centerX == _UIBackdropContentView:0x7a67e620.centerX>",
+    "<NSLayoutConstraint:0x7a79faf0 UIView:0x7a6d3a10.right == _UIBackdropContentView:0x7a67e620.right - 15>",
+    "<NSLayoutConstraint:0x7a145d40 UIView:0x7a013c40.right <= UIView:0x7a6d3a10.left - 15>",
+    "<NSLayoutConstraint:0x7a1002b0 H:|-(0)-[AVButton:0x7a10cf50](LTR)   (Names: '|':UIView:0x7a013c40 )>",
+    "<NSLayoutConstraint:0x7a7bfbd0 AVButton:0x7a1257b0.centerX == AVButton:0x7a10cf50.right + 67>",
+    "<NSLayoutConstraint:0x7a7bfc00 AVButton:0x7a1257b0.centerX == AVButton:0x7a79ba70.left - 67>",
+    "<NSLayoutConstraint:0x7a788390 AVButton:0x7a79ba70.right == UIView:0x7a013c40.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a6a3d90 H:[_UIBackdropView:0x7a01ffb0]-(0)-|   (Names: '|':UIView:0x7a0051d0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2015-05-19 18:35:48.636 chimein_beta[3859:166110] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7c87dde0 H:|-(0)-[UIView:0x7c878a50]   (Names: '|':UIView:0x7a655150 )>",
+    "<NSLayoutConstraint:0x7c87de40 H:[UIView:0x7c878a50]-(0)-|   (Names: '|':UIView:0x7a655150 )>",
+    "<NSLayoutConstraint:0x79e232e0 H:|-(0)-[UIView:0x7a655150]   (Names: '|':UIView:0x7a6c9220 )>",
+    "<NSLayoutConstraint:0x79e053b0 H:[UIView:0x7a655150]-(0)-|   (Names: '|':UIView:0x7a6c9220 )>",
+    "<NSLayoutConstraint:0x7a7f8e50 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a6c9220(180)]>",
+    "<NSLayoutConstraint:0x7a7398c0 H:|-(0)-[_UIBackdropView:0x79f12520]   (Names: '|':UIView:0x79f19370 )>",
+    "<NSLayoutConstraint:0x7a7398f0 H:[_UIBackdropView:0x79f12520]-(0)-|   (Names: '|':UIView:0x79f19370 )>",
+    "<NSLayoutConstraint:0x7a73f6a0 H:|-(0)-[UIView:0x79f19370]   (Names: '|':AVAlphaUpdatingView:0x79f307b0 )>",
+    "<NSLayoutConstraint:0x7a73f6d0 H:[UIView:0x79f19370]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x79f307b0 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x7a6a9430 h=-&- v=-&- _UIBackdropContentView:0x79f0b590.width == _UIBackdropView:0x79f12520.width>",
+    "<NSLayoutConstraint:0x79fec1b0 H:|-(0)-[AVAlphaUpdatingView:0x79f307b0]   (Names: '|':UIView:0x7c878a50 )>",
+    "<NSLayoutConstraint:0x79fec220 H:[AVAlphaUpdatingView:0x79f307b0]-(0)-|   (Names: '|':UIView:0x7c878a50 )>",
+    "<NSLayoutConstraint:0x79e056e0 UIView:0x79f0b6b0.centerX == _UIBackdropContentView:0x79f0b590.centerX>",
+    "<NSLayoutConstraint:0x79e058a0 UIView:0x79f15200.right == _UIBackdropContentView:0x79f0b590.right - 15>",
+    "<NSLayoutConstraint:0x79e4c1e0 UIView:0x79f0b6b0.right <= UIView:0x79f15200.left - 15>",
+    "<NSLayoutConstraint:0x79e4c210 H:|-(0)-[AVButton:0x79e14bb0](LTR)   (Names: '|':UIView:0x79f0b6b0 )>",
+    "<NSLayoutConstraint:0x79e10290 AVButton:0x7a7443b0.centerX == AVButton:0x79e14bb0.right + 67>",
+    "<NSLayoutConstraint:0x79e183e0 AVButton:0x7a7443b0.centerX == AVButton:0x7a6507a0.left - 67>",
+    "<NSLayoutConstraint:0x79e1eec0 AVButton:0x7a6507a0.right == UIView:0x79f0b6b0.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a7398f0 H:[_UIBackdropView:0x79f12520]-(0)-|   (Names: '|':UIView:0x79f19370 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2015-05-19 18:39:40.174 chimein_beta[3859:166110] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a7fb4c0 H:|-(0)-[UIView:0x7a7bfc70]   (Names: '|':UIView:0x79f20760 )>",
+    "<NSLayoutConstraint:0x7a7fb520 H:[UIView:0x7a7bfc70]-(0)-|   (Names: '|':UIView:0x79f20760 )>",
+    "<NSLayoutConstraint:0x79f33de0 H:|-(0)-[UIView:0x79f20760]   (Names: '|':UIView:0x79f2ffa0 )>",
+    "<NSLayoutConstraint:0x79f203f0 H:[UIView:0x79f20760]-(0)-|   (Names: '|':UIView:0x79f2ffa0 )>",
+    "<NSLayoutConstraint:0x79f457f0 'UIView-Encapsulated-Layout-Width' H:[UIView:0x79f2ffa0(180)]>",
+    "<NSLayoutConstraint:0x7a611200 H:|-(0)-[_UIBackdropView:0x7a61bd80]   (Names: '|':UIView:0x7a61bfc0 )>",
+    "<NSLayoutConstraint:0x7a6111d0 H:[_UIBackdropView:0x7a61bd80]-(0)-|   (Names: '|':UIView:0x7a61bfc0 )>",
+    "<NSLayoutConstraint:0x7a6113b0 H:|-(0)-[UIView:0x7a61bfc0]   (Names: '|':AVAlphaUpdatingView:0x7a762ae0 )>",
+    "<NSLayoutConstraint:0x7a611380 H:[UIView:0x7a61bfc0]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x7a762ae0 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x7c976d90 h=-&- v=-&- _UIBackdropContentView:0x7a61b730.width == _UIBackdropView:0x7a61bd80.width>",
+    "<NSLayoutConstraint:0x7a71a680 H:|-(0)-[AVAlphaUpdatingView:0x7a762ae0]   (Names: '|':UIView:0x7a7bfc70 )>",
+    "<NSLayoutConstraint:0x7a71a610 H:[AVAlphaUpdatingView:0x7a762ae0]-(0)-|   (Names: '|':UIView:0x7a7bfc70 )>",
+    "<NSLayoutConstraint:0x79e33fe0 UIView:0x7a61b8e0.centerX == _UIBackdropContentView:0x7a61b730.centerX>",
+    "<NSLayoutConstraint:0x7c877850 UIView:0x7a61b9d0.right == _UIBackdropContentView:0x7a61b730.right - 15>",
+    "<NSLayoutConstraint:0x79e1b230 UIView:0x7a61b8e0.right <= UIView:0x7a61b9d0.left - 15>",
+    "<NSLayoutConstraint:0x79e1b260 H:|-(0)-[AVButton:0x7c96dfb0](LTR)   (Names: '|':UIView:0x7a61b8e0 )>",
+    "<NSLayoutConstraint:0x7c8777e0 AVButton:0x7a725580.centerX == AVButton:0x7c96dfb0.right + 67>",
+    "<NSLayoutConstraint:0x7c872940 AVButton:0x7a725580.centerX == AVButton:0x7a724350.left - 67>",
+    "<NSLayoutConstraint:0x7c877a30 AVButton:0x7a724350.right == UIView:0x7a61b8e0.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a6111d0 H:[_UIBackdropView:0x7a61bd80]-(0)-|   (Names: '|':UIView:0x7a61bfc0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2015-05-19 20:31:58.128 chimein_beta[3859:166110] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x7a62fb80 H:|-(0)-[UIView:0x7a62f010]   (Names: '|':UIView:0x7a64b9b0 )>",
+    "<NSLayoutConstraint:0x7a62fbe0 H:[UIView:0x7a62f010]-(0)-|   (Names: '|':UIView:0x7a64b9b0 )>",
+    "<NSLayoutConstraint:0x79f10790 H:|-(0)-[UIView:0x7a64b9b0]   (Names: '|':UIView:0x7a01a580 )>",
+    "<NSLayoutConstraint:0x7c96f990 H:[UIView:0x7a64b9b0]-(0)-|   (Names: '|':UIView:0x7a01a580 )>",
+    "<NSLayoutConstraint:0x7a12ba40 'UIView-Encapsulated-Layout-Width' H:[UIView:0x7a01a580(180)]>",
+    "<NSLayoutConstraint:0x7a72c910 H:|-(0)-[_UIBackdropView:0x7a6455c0]   (Names: '|':UIView:0x7a0453b0 )>",
+    "<NSLayoutConstraint:0x7a72c940 H:[_UIBackdropView:0x7a6455c0]-(0)-|   (Names: '|':UIView:0x7a0453b0 )>",
+    "<NSLayoutConstraint:0x7a72c760 H:|-(0)-[UIView:0x7a0453b0]   (Names: '|':AVAlphaUpdatingView:0x79e26fc0 )>",
+    "<NSLayoutConstraint:0x7a72c790 H:[UIView:0x7a0453b0]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x79e26fc0 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x7a706180 h=-&- v=-&- _UIBackdropContentView:0x7a652f90.width == _UIBackdropView:0x7a6455c0.width>",
+    "<NSLayoutConstraint:0x7ca6f030 H:|-(0)-[AVAlphaUpdatingView:0x79e26fc0]   (Names: '|':UIView:0x7a62f010 )>",
+    "<NSLayoutConstraint:0x7ca6f0a0 H:[AVAlphaUpdatingView:0x79e26fc0]-(0)-|   (Names: '|':UIView:0x7a62f010 )>",
+    "<NSLayoutConstraint:0x7a703000 UIView:0x7a6f3af0.centerX == _UIBackdropContentView:0x7a652f90.centerX>",
+    "<NSLayoutConstraint:0x7a71be90 UIView:0x7a6f3bd0.right == _UIBackdropContentView:0x7a652f90.right - 15>",
+    "<NSLayoutConstraint:0x7a7c7ea0 UIView:0x7a6f3af0.right <= UIView:0x7a6f3bd0.left - 15>",
+    "<NSLayoutConstraint:0x7a7656b0 H:|-(0)-[AVButton:0x7a749990](LTR)   (Names: '|':UIView:0x7a6f3af0 )>",
+    "<NSLayoutConstraint:0x7a737290 AVButton:0x7a731830.centerX == AVButton:0x7a749990.right + 67>",
+    "<NSLayoutConstraint:0x7a7372c0 AVButton:0x7a731830.centerX == AVButton:0x7a72d010.left - 67>",
+    "<NSLayoutConstraint:0x7a739a40 AVButton:0x7a72d010.right == UIView:0x7a6f3af0.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a72c940 H:[_UIBackdropView:0x7a6455c0]-(0)-|   (Names: '|':UIView:0x7a0453b0 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+2015-05-19 20:57:57.627 chimein_beta[3859:166110] Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. Try this: (1) look at each constraint and try to figure out which you don't expect; (2) find the code that added the unwanted constraint or constraints and fix it. (Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSLayoutConstraint:0x79f36a10 H:|-(0)-[UIView:0x79f10330]   (Names: '|':UIView:0x7a6a9430 )>",
+    "<NSLayoutConstraint:0x79f36a70 H:[UIView:0x79f10330]-(0)-|   (Names: '|':UIView:0x7a6a9430 )>",
+    "<NSLayoutConstraint:0x79e17560 H:|-(0)-[UIView:0x7a6a9430]   (Names: '|':UIView:0x79e03300 )>",
+    "<NSLayoutConstraint:0x7c883800 H:[UIView:0x7a6a9430]-(0)-|   (Names: '|':UIView:0x79e03300 )>",
+    "<NSLayoutConstraint:0x79e2e130 'UIView-Encapsulated-Layout-Width' H:[UIView:0x79e03300(180)]>",
+    "<NSLayoutConstraint:0x7a640330 H:|-(0)-[_UIBackdropView:0x7a62dc10]   (Names: '|':UIView:0x7a653600 )>",
+    "<NSLayoutConstraint:0x7a640360 H:[_UIBackdropView:0x7a62dc10]-(0)-|   (Names: '|':UIView:0x7a653600 )>",
+    "<NSLayoutConstraint:0x7a610f90 H:|-(0)-[UIView:0x7a653600]   (Names: '|':AVAlphaUpdatingView:0x7a734160 )>",
+    "<NSLayoutConstraint:0x7a610fc0 H:[UIView:0x7a653600]-(0)-|   (Names: '|':AVAlphaUpdatingView:0x7a734160 )>",
+    "<NSAutoresizingMaskLayoutConstraint:0x79e31410 h=-&- v=-&- _UIBackdropContentView:0x7a794b80.width == _UIBackdropView:0x7a62dc10.width>",
+    "<NSLayoutConstraint:0x7a64ed40 H:|-(0)-[AVAlphaUpdatingView:0x7a734160]   (Names: '|':UIView:0x79f10330 )>",
+    "<NSLayoutConstraint:0x7a64edb0 H:[AVAlphaUpdatingView:0x7a734160]-(0)-|   (Names: '|':UIView:0x79f10330 )>",
+    "<NSLayoutConstraint:0x7a751110 UIView:0x7a794ce0.centerX == _UIBackdropContentView:0x7a794b80.centerX>",
+    "<NSLayoutConstraint:0x7a711cd0 UIView:0x7a737a20.right == _UIBackdropContentView:0x7a794b80.right - 15>",
+    "<NSLayoutConstraint:0x7a711e90 UIView:0x7a794ce0.right <= UIView:0x7a737a20.left - 15>",
+    "<NSLayoutConstraint:0x7a711ec0 H:|-(0)-[AVButton:0x7a7f7dc0](LTR)   (Names: '|':UIView:0x7a794ce0 )>",
+    "<NSLayoutConstraint:0x7a711fa0 AVButton:0x7a721190.centerX == AVButton:0x7a7f7dc0.right + 67>",
+    "<NSLayoutConstraint:0x7a7111d0 AVButton:0x7a721190.centerX == AVButton:0x7a740e00.left - 67>",
+    "<NSLayoutConstraint:0x7a144470 AVButton:0x7a740e00.right == UIView:0x7a794ce0.right>",
+    "<NSLayoutConstraint:0x7a7112e0 H:|-(0)-[AVButton:0x7a6e0380](LTR)   (Names: '|':UIView:0x7a737a20 )>",
+    "<NSLayoutConstraint:0x7a72b480 AVButton:0x7a6e0380.right == UIView:0x7a737a20.right>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x7a640360 H:[_UIBackdropView:0x7a62dc10]-(0)-|   (Names: '|':UIView:0x7a653600 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.

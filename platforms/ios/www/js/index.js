@@ -80,7 +80,8 @@ createMap: function(data){
 //    .setView([40.740069, -73.967581], 12);
     map = L.mapbox.map('map', 'tessandiaye.m3l2eh23', {attributionControl: false})
     .setView([40.740069, -73.967581], 12);
-    
+//    .setView([40.718, -73.987], 13);
+
     
     // The GeoJSON representing a point feature with a property of 'video' for the Youtube iframe
     // coordinates here are in longitude, latitude order because
@@ -151,7 +152,7 @@ createMap: function(data){
     
     myFeaturesLayer = L.mapbox.featureLayer(geoJson,{
                                             pointToLayer: function(feature, lonlat) {
-                                            var color = getColor(feature.properties.title);
+                                            var color = getColor(feature.properties.price);
                                             return L.circleMarker(lonlat, {
                                                                   fillColor: color,
                                                                   fillOpacity: 1,
@@ -165,7 +166,7 @@ createMap: function(data){
                                             }).addTo(map);
     
     
-    function getColor(title){
+    function getColor(price){
         var yellow = '#f9f4ad';
 //        var red = '#f03';
 //        var green = '#70f466';
@@ -174,17 +175,18 @@ createMap: function(data){
         
        
         
-        if(title=="Ski Lodge") return yellow; // DAY 9
-        if(title=="Derangement of the Senses") return yellow; // DAY 1
-        if(title=="Fred Thomas") return yellow; // DAY 1
-        if(title=="SIR JARLSBERG") return yellow; // DAY 8
-        if(title=="The Front Room") return yellow; // DAY
-        if(title=="Geeks Who Drink - Pub Quiz") return yellow; // DAY 10
+//        if(title=="The Bright Smoke") return yellow; // DAY 2
+        if(price=="FREE") return yellow;
+//        if(title=="Fred Thomas") return yellow; // DAY 1
+//        if(title=="SIR JARLSBERG") return yellow; // DAY 8
+//        if(title=="The Front Room") return yellow; // DAY
+//        if(title=="Geeks Who Drink - Pub Quiz") return yellow; // DAY 10
       
         else return purple;
         
         
     }
+    
     
     
     // >>> GEOLOCATION <<<< // - may have to use window.onload = function(){ };
@@ -301,7 +303,7 @@ createMap: function(data){
     
     var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
     var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-    var date = new Date(2015, 4, 4); // mois en javascript commence à 0.
+    var date = new Date(2015, 4, 18); // mois en javascript commence à 0.
     var dates = [];
     for (var i = 0; i < 14; i++) {
         dates.push(days[date.getDay()] + ', ' + months[date.getMonth()] + ' ' + date.getDate());

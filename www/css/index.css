@@ -129,7 +129,12 @@ background-size: contain;
 
 
 
-
+div.leaflet-popup.leaflet-zoom-animated {
+    bottom: -220px!important;
+    left: -160px!important;
+    position: fixed!important;
+    width: 202px!important;
+}
 
 /* ----------- iPhone 5 and 5S ----------- */
 
